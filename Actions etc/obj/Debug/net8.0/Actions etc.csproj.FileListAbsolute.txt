@@ -1,0 +1,14 @@
+C:\Users\luan.santos\Desktop\Projetos e anotações\testes\Actions etc\Actions etc\bin\Debug\net8.0\Actions etc.exe
+C:\Users\luan.santos\Desktop\Projetos e anotações\testes\Actions etc\Actions etc\bin\Debug\net8.0\Actions etc.deps.json
+C:\Users\luan.santos\Desktop\Projetos e anotações\testes\Actions etc\Actions etc\bin\Debug\net8.0\Actions etc.runtimeconfig.json
+C:\Users\luan.santos\Desktop\Projetos e anotações\testes\Actions etc\Actions etc\bin\Debug\net8.0\Actions etc.dll
+C:\Users\luan.santos\Desktop\Projetos e anotações\testes\Actions etc\Actions etc\bin\Debug\net8.0\Actions etc.pdb
+C:\Users\luan.santos\Desktop\Projetos e anotações\testes\Actions etc\Actions etc\obj\Debug\net8.0\Actions etc.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\luan.santos\Desktop\Projetos e anotações\testes\Actions etc\Actions etc\obj\Debug\net8.0\Actions etc.AssemblyInfoInputs.cache
+C:\Users\luan.santos\Desktop\Projetos e anotações\testes\Actions etc\Actions etc\obj\Debug\net8.0\Actions etc.AssemblyInfo.cs
+C:\Users\luan.santos\Desktop\Projetos e anotações\testes\Actions etc\Actions etc\obj\Debug\net8.0\Actions etc.csproj.CoreCompileInputs.cache
+C:\Users\luan.santos\Desktop\Projetos e anotações\testes\Actions etc\Actions etc\obj\Debug\net8.0\Actions etc.dll
+C:\Users\luan.santos\Desktop\Projetos e anotações\testes\Actions etc\Actions etc\obj\Debug\net8.0\refint\Actions etc.dll
+C:\Users\luan.santos\Desktop\Projetos e anotações\testes\Actions etc\Actions etc\obj\Debug\net8.0\Actions etc.pdb
+C:\Users\luan.santos\Desktop\Projetos e anotações\testes\Actions etc\Actions etc\obj\Debug\net8.0\Actions etc.genruntimeconfig.cache
+C:\Users\luan.santos\Desktop\Projetos e anotações\testes\Actions etc\Actions etc\obj\Debug\net8.0\ref\Actions etc.dll

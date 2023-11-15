@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "tTWkVb1Q95CSfBhPQT+LLALb0+Rrgd9/nev+lXJ2Oq/x8bV3gRqCisVrU/mVSJ62CLkg/WETjg/i0Wf/Xad+uQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\luan.santos\\Desktop\\Projetos e anotações\\testes\\Actions etc\\LoggerFeatures\\LoggerFeatures.csproj",
+  "expectedPackageFiles": [
+    "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder\\microsoft.extensions.logging.abstractions\\2.1.1\\microsoft.extensions.logging.abstractions.2.1.1.nupkg.sha512"
+  ],
+  "logs": []
+}
