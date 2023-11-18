@@ -1,23 +1,25 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\luan.santos\\Desktop\\Projetos e anotações\\testes\\Actions etc\\AnyCountAndLinq\\AnyCountAndLinq.csproj": {}
+    "C:\\Users\\oempr\\Documents\\Projects\\actions\\AnyCountAndLinq\\AnyCountAndLinq.csproj": {}
   },
   "projects": {
-    "C:\\Users\\luan.santos\\Desktop\\Projetos e anotações\\testes\\Actions etc\\AnyCountAndLinq\\AnyCountAndLinq.csproj": {
+    "C:\\Users\\oempr\\Documents\\Projects\\actions\\AnyCountAndLinq\\AnyCountAndLinq.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\luan.santos\\Desktop\\Projetos e anotações\\testes\\Actions etc\\AnyCountAndLinq\\AnyCountAndLinq.csproj",
+        "projectUniqueName": "C:\\Users\\oempr\\Documents\\Projects\\actions\\AnyCountAndLinq\\AnyCountAndLinq.csproj",
         "projectName": "AnyCountAndLinq",
-        "projectPath": "C:\\Users\\luan.santos\\Desktop\\Projetos e anotações\\testes\\Actions etc\\AnyCountAndLinq\\AnyCountAndLinq.csproj",
-        "packagesPath": "C:\\Users\\luan.santos\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\luan.santos\\Desktop\\Projetos e anotações\\testes\\Actions etc\\AnyCountAndLinq\\obj\\",
+        "projectPath": "C:\\Users\\oempr\\Documents\\Projects\\actions\\AnyCountAndLinq\\AnyCountAndLinq.csproj",
+        "packagesPath": "C:\\Users\\oempr\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\oempr\\Documents\\Projects\\actions\\AnyCountAndLinq\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
         ],
         "configFilePaths": [
-          "C:\\Users\\luan.santos\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\oempr\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -25,6 +27,7 @@
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
@@ -42,12 +45,6 @@
       "frameworks": {
         "net8.0": {
           "targetAlias": "net8.0",
-          "dependencies": {
-            "BenchmarkDotNet": {
-              "target": "Package",
-              "version": "[0.13.10, )"
-            }
-          },
           "imports": [
             "net461",
             "net462",
@@ -59,12 +56,7 @@
           ],
           "assetTargetFallback": true,
           "warn": true,
-          "frameworkReferences": {
-            "Microsoft.NETCore.App": {
-              "privateAssets": "all"
-            }
-          },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.100-rc.2.23502.2/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.403\\RuntimeIdentifierGraph.json"
         }
       }
     }

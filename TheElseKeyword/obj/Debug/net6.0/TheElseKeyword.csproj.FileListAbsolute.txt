@@ -1,0 +1,14 @@
+C:\Users\oempr\Documents\Projects\actions\TheElseKeyword\obj\Debug\net6.0\TheElseKeyword.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\oempr\Documents\Projects\actions\TheElseKeyword\obj\Debug\net6.0\TheElseKeyword.AssemblyInfoInputs.cache
+C:\Users\oempr\Documents\Projects\actions\TheElseKeyword\obj\Debug\net6.0\TheElseKeyword.AssemblyInfo.cs
+C:\Users\oempr\Documents\Projects\actions\TheElseKeyword\obj\Debug\net6.0\TheElseKeyword.csproj.CoreCompileInputs.cache
+C:\Users\oempr\Documents\Projects\actions\TheElseKeyword\bin\Debug\net6.0\TheElseKeyword.exe
+C:\Users\oempr\Documents\Projects\actions\TheElseKeyword\bin\Debug\net6.0\TheElseKeyword.deps.json
+C:\Users\oempr\Documents\Projects\actions\TheElseKeyword\bin\Debug\net6.0\TheElseKeyword.runtimeconfig.json
+C:\Users\oempr\Documents\Projects\actions\TheElseKeyword\bin\Debug\net6.0\TheElseKeyword.dll
+C:\Users\oempr\Documents\Projects\actions\TheElseKeyword\bin\Debug\net6.0\TheElseKeyword.pdb
+C:\Users\oempr\Documents\Projects\actions\TheElseKeyword\obj\Debug\net6.0\TheElseKeyword.dll
+C:\Users\oempr\Documents\Projects\actions\TheElseKeyword\obj\Debug\net6.0\refint\TheElseKeyword.dll
+C:\Users\oempr\Documents\Projects\actions\TheElseKeyword\obj\Debug\net6.0\TheElseKeyword.pdb
+C:\Users\oempr\Documents\Projects\actions\TheElseKeyword\obj\Debug\net6.0\TheElseKeyword.genruntimeconfig.cache
+C:\Users\oempr\Documents\Projects\actions\TheElseKeyword\obj\Debug\net6.0\ref\TheElseKeyword.dll
