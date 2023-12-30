@@ -1,0 +1,13 @@
+C:\Users\oempr\OneDrive\Documentos\Projects\actions\AspireApp\AspireApp.ServiceDefaults\bin\Release\net8.0\AspireApp.ServiceDefaults.deps.json
+C:\Users\oempr\OneDrive\Documentos\Projects\actions\AspireApp\AspireApp.ServiceDefaults\bin\Release\net8.0\AspireApp.ServiceDefaults.dll
+C:\Users\oempr\OneDrive\Documentos\Projects\actions\AspireApp\AspireApp.ServiceDefaults\bin\Release\net8.0\AspireApp.ServiceDefaults.pdb
+C:\Users\oempr\OneDrive\Documentos\Projects\actions\AspireApp\AspireApp.ServiceDefaults\obj\Release\net8.0\AspireApp.ServiceDefaults.csproj.AssemblyReference.cache
+C:\Users\oempr\OneDrive\Documentos\Projects\actions\AspireApp\AspireApp.ServiceDefaults\obj\Release\net8.0\AspireApp.ServiceDefaults.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\oempr\OneDrive\Documentos\Projects\actions\AspireApp\AspireApp.ServiceDefaults\obj\Release\net8.0\AspireApp.ServiceDefaults.AssemblyInfoInputs.cache
+C:\Users\oempr\OneDrive\Documentos\Projects\actions\AspireApp\AspireApp.ServiceDefaults\obj\Release\net8.0\AspireApp.ServiceDefaults.AssemblyInfo.cs
+C:\Users\oempr\OneDrive\Documentos\Projects\actions\AspireApp\AspireApp.ServiceDefaults\obj\Release\net8.0\AspireApp.ServiceDefaults.csproj.CoreCompileInputs.cache
+C:\Users\oempr\OneDrive\Documentos\Projects\actions\AspireApp\AspireApp.ServiceDefaults\obj\Release\net8.0\AspireApp.ServiceDefaults.sourcelink.json
+C:\Users\oempr\OneDrive\Documentos\Projects\actions\AspireApp\AspireApp.ServiceDefaults\obj\Release\net8.0\AspireApp.ServiceDefaults.dll
+C:\Users\oempr\OneDrive\Documentos\Projects\actions\AspireApp\AspireApp.ServiceDefaults\obj\Release\net8.0\refint\AspireApp.ServiceDefaults.dll
+C:\Users\oempr\OneDrive\Documentos\Projects\actions\AspireApp\AspireApp.ServiceDefaults\obj\Release\net8.0\AspireApp.ServiceDefaults.pdb
+C:\Users\oempr\OneDrive\Documentos\Projects\actions\AspireApp\AspireApp.ServiceDefaults\obj\Release\net8.0\ref\AspireApp.ServiceDefaults.dll

@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2012/06/nuspec.xsd">
+  <metadata>
+    <id>Application</id>
+    <version>1.0.0</version>
+    <authors>Application</authors>
+    <description>Package Description</description>
+    <repository type="git" commit="960bc1475faab8f7ed07655b38e86d6f9b2b0b90" />
+    <dependencies>
+      <group targetFramework="net6.0" />
+    </dependencies>
+  </metadata>
+  <files>
+    <file src="C:\Users\oempr\OneDrive\Documentos\Projects\actions\Application\bin\Release\net6.0\Application.dll" target="lib\net6.0\Application.dll" />
+  </files>
+</package>

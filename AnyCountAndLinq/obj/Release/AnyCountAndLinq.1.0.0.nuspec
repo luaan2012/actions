@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2012/06/nuspec.xsd">
+  <metadata>
+    <id>AnyCountAndLinq</id>
+    <version>1.0.0</version>
+    <authors>AnyCountAndLinq</authors>
+    <description>Package Description</description>
+    <repository type="git" commit="960bc1475faab8f7ed07655b38e86d6f9b2b0b90" />
+    <dependencies>
+      <group targetFramework="net8.0">
+        <dependency id="BenchmarkDotNet" version="0.13.10" exclude="Build,Analyzers" />
+      </group>
+    </dependencies>
+  </metadata>
+  <files>
+    <file src="C:\Users\oempr\OneDrive\Documentos\Projects\actions\AnyCountAndLinq\bin\Release\net8.0\AnyCountAndLinq.runtimeconfig.json" target="lib\net8.0\AnyCountAndLinq.runtimeconfig.json" />
+    <file src="C:\Users\oempr\OneDrive\Documentos\Projects\actions\AnyCountAndLinq\bin\Release\net8.0\AnyCountAndLinq.dll" target="lib\net8.0\AnyCountAndLinq.dll" />
+  </files>
+</package>

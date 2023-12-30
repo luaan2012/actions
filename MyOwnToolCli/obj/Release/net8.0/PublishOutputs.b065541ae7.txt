@@ -1,0 +1,5 @@
+C:\Users\oempr\OneDrive\Documentos\Projects\actions\MyOwnToolCli\bin\Release\net8.0\publish\MyOwnToolCli.exe
+C:\Users\oempr\OneDrive\Documentos\Projects\actions\MyOwnToolCli\bin\Release\net8.0\publish\MyOwnToolCli.dll
+C:\Users\oempr\OneDrive\Documentos\Projects\actions\MyOwnToolCli\bin\Release\net8.0\publish\MyOwnToolCli.deps.json
+C:\Users\oempr\OneDrive\Documentos\Projects\actions\MyOwnToolCli\bin\Release\net8.0\publish\MyOwnToolCli.runtimeconfig.json
+C:\Users\oempr\OneDrive\Documentos\Projects\actions\MyOwnToolCli\bin\Release\net8.0\publish\MyOwnToolCli.pdb

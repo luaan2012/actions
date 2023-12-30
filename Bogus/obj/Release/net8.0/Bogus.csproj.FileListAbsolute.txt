@@ -12,3 +12,11 @@ C:\Users\luan.santos\Desktop\Projetos e anotações\testes\Actions etc\Bogus\obj
 C:\Users\luan.santos\Desktop\Projetos e anotações\testes\Actions etc\Bogus\obj\Release\net8.0\Bogus.pdb
 C:\Users\luan.santos\Desktop\Projetos e anotações\testes\Actions etc\Bogus\obj\Release\net8.0\Bogus.genruntimeconfig.cache
 C:\Users\luan.santos\Desktop\Projetos e anotações\testes\Actions etc\Bogus\obj\Release\net8.0\ref\Bogus.dll
+C:\Users\oempr\OneDrive\Documentos\Projects\actions\Bogus\obj\Release\net8.0\Bogus.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\oempr\OneDrive\Documentos\Projects\actions\Bogus\obj\Release\net8.0\Bogus.AssemblyInfoInputs.cache
+C:\Users\oempr\OneDrive\Documentos\Projects\actions\Bogus\obj\Release\net8.0\Bogus.AssemblyInfo.cs
+C:\Users\oempr\OneDrive\Documentos\Projects\actions\Bogus\obj\Release\net8.0\Bogus.csproj.CoreCompileInputs.cache
+C:\Users\oempr\OneDrive\Documentos\Projects\actions\Bogus\obj\Release\net8.0\Bogus.sourcelink.json
+C:\Users\oempr\OneDrive\Documentos\Projects\actions\Bogus\obj\Release\net8.0\Bogus.dll
+C:\Users\oempr\OneDrive\Documentos\Projects\actions\Bogus\obj\Release\net8.0\refint\Bogus.dll
+C:\Users\oempr\OneDrive\Documentos\Projects\actions\Bogus\obj\Release\net8.0\Bogus.pdb

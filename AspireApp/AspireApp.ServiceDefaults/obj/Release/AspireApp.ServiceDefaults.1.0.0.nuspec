@@ -1,0 +1,30 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2012/06/nuspec.xsd">
+  <metadata>
+    <id>AspireApp.ServiceDefaults</id>
+    <version>1.0.0</version>
+    <authors>AspireApp.ServiceDefaults</authors>
+    <description>Package Description</description>
+    <repository type="git" commit="960bc1475faab8f7ed07655b38e86d6f9b2b0b90" />
+    <dependencies>
+      <group targetFramework="net8.0">
+        <dependency id="Microsoft.Extensions.Http.Resilience" version="8.0.0" exclude="Build,Analyzers" />
+        <dependency id="Microsoft.Extensions.ServiceDiscovery" version="8.0.0-preview.1.23557.2" exclude="Build,Analyzers" />
+        <dependency id="OpenTelemetry.Exporter.OpenTelemetryProtocol" version="1.7.0-alpha.1" exclude="Build,Analyzers" />
+        <dependency id="OpenTelemetry.Extensions.Hosting" version="1.7.0-alpha.1" exclude="Build,Analyzers" />
+        <dependency id="OpenTelemetry.Instrumentation.AspNetCore" version="1.6.0-beta.2" exclude="Build,Analyzers" />
+        <dependency id="OpenTelemetry.Instrumentation.GrpcNetClient" version="1.6.0-beta.2" exclude="Build,Analyzers" />
+        <dependency id="OpenTelemetry.Instrumentation.Http" version="1.6.0-beta.2" exclude="Build,Analyzers" />
+        <dependency id="OpenTelemetry.Instrumentation.Runtime" version="1.5.1" exclude="Build,Analyzers" />
+      </group>
+    </dependencies>
+    <frameworkReferences>
+      <group targetFramework="net8.0">
+        <frameworkReference name="Microsoft.AspNetCore.App" />
+      </group>
+    </frameworkReferences>
+  </metadata>
+  <files>
+    <file src="C:\Users\oempr\OneDrive\Documentos\Projects\actions\AspireApp\AspireApp.ServiceDefaults\bin\Release\net8.0\AspireApp.ServiceDefaults.dll" target="lib\net8.0\AspireApp.ServiceDefaults.dll" />
+  </files>
+</package>

@@ -1,0 +1,15 @@
+C:\Users\oempr\OneDrive\Documentos\Projects\actions\MyOwnToolCli\bin\Release\net8.0\MyOwnToolCli.exe
+C:\Users\oempr\OneDrive\Documentos\Projects\actions\MyOwnToolCli\bin\Release\net8.0\MyOwnToolCli.deps.json
+C:\Users\oempr\OneDrive\Documentos\Projects\actions\MyOwnToolCli\bin\Release\net8.0\MyOwnToolCli.runtimeconfig.json
+C:\Users\oempr\OneDrive\Documentos\Projects\actions\MyOwnToolCli\bin\Release\net8.0\MyOwnToolCli.dll
+C:\Users\oempr\OneDrive\Documentos\Projects\actions\MyOwnToolCli\bin\Release\net8.0\MyOwnToolCli.pdb
+C:\Users\oempr\OneDrive\Documentos\Projects\actions\MyOwnToolCli\obj\Release\net8.0\MyOwnToolCli.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\oempr\OneDrive\Documentos\Projects\actions\MyOwnToolCli\obj\Release\net8.0\MyOwnToolCli.AssemblyInfoInputs.cache
+C:\Users\oempr\OneDrive\Documentos\Projects\actions\MyOwnToolCli\obj\Release\net8.0\MyOwnToolCli.AssemblyInfo.cs
+C:\Users\oempr\OneDrive\Documentos\Projects\actions\MyOwnToolCli\obj\Release\net8.0\MyOwnToolCli.csproj.CoreCompileInputs.cache
+C:\Users\oempr\OneDrive\Documentos\Projects\actions\MyOwnToolCli\obj\Release\net8.0\MyOwnToolCli.sourcelink.json
+C:\Users\oempr\OneDrive\Documentos\Projects\actions\MyOwnToolCli\obj\Release\net8.0\MyOwnToolCli.dll
+C:\Users\oempr\OneDrive\Documentos\Projects\actions\MyOwnToolCli\obj\Release\net8.0\refint\MyOwnToolCli.dll
+C:\Users\oempr\OneDrive\Documentos\Projects\actions\MyOwnToolCli\obj\Release\net8.0\MyOwnToolCli.pdb
+C:\Users\oempr\OneDrive\Documentos\Projects\actions\MyOwnToolCli\obj\Release\net8.0\MyOwnToolCli.genruntimeconfig.cache
+C:\Users\oempr\OneDrive\Documentos\Projects\actions\MyOwnToolCli\obj\Release\net8.0\ref\MyOwnToolCli.dll

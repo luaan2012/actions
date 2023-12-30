@@ -1,8 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "Tkv6iCIlU6PKvYJKH50i1Ezq9+rEAqHZOy0DMz80Y1BfiyKykLgfgkkwtpHHCB6CW0tTyqJKIf3Sg1ns0xQalA==",
+  "dgSpecHash": "iH3D9PbAAcwWkoqw3ER0w6pRAS5T9NJSPRxMmyOMapvR3iWKQAADo0j4aRcMx1Adwi4uaBBJ6848susndVn0Hw==",
   "success": true,
-  "projectFilePath": "C:\\Users\\oempr\\Documents\\Projects\\actions\\LoggerFeatures\\LoggerFeatures.csproj",
-  "expectedPackageFiles": [],
+  "projectFilePath": "C:\\Users\\oempr\\OneDrive\\Documentos\\Projects\\actions\\LoggerFeatures\\LoggerFeatures.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\oempr\\.nuget\\packages\\microsoft.extensions.logging.abstractions\\2.1.1\\microsoft.extensions.logging.abstractions.2.1.1.nupkg.sha512"
+  ],
   "logs": []
 }

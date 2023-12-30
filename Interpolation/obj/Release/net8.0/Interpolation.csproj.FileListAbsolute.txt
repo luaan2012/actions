@@ -1,0 +1,15 @@
+C:\Users\oempr\OneDrive\Documentos\Projects\actions\Interpolation\bin\Release\net8.0\Interpolation.exe
+C:\Users\oempr\OneDrive\Documentos\Projects\actions\Interpolation\bin\Release\net8.0\Interpolation.deps.json
+C:\Users\oempr\OneDrive\Documentos\Projects\actions\Interpolation\bin\Release\net8.0\Interpolation.runtimeconfig.json
+C:\Users\oempr\OneDrive\Documentos\Projects\actions\Interpolation\bin\Release\net8.0\Interpolation.dll
+C:\Users\oempr\OneDrive\Documentos\Projects\actions\Interpolation\bin\Release\net8.0\Interpolation.pdb
+C:\Users\oempr\OneDrive\Documentos\Projects\actions\Interpolation\obj\Release\net8.0\Interpolation.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\oempr\OneDrive\Documentos\Projects\actions\Interpolation\obj\Release\net8.0\Interpolation.AssemblyInfoInputs.cache
+C:\Users\oempr\OneDrive\Documentos\Projects\actions\Interpolation\obj\Release\net8.0\Interpolation.AssemblyInfo.cs
+C:\Users\oempr\OneDrive\Documentos\Projects\actions\Interpolation\obj\Release\net8.0\Interpolation.csproj.CoreCompileInputs.cache
+C:\Users\oempr\OneDrive\Documentos\Projects\actions\Interpolation\obj\Release\net8.0\Interpolation.sourcelink.json
+C:\Users\oempr\OneDrive\Documentos\Projects\actions\Interpolation\obj\Release\net8.0\Interpolation.dll
+C:\Users\oempr\OneDrive\Documentos\Projects\actions\Interpolation\obj\Release\net8.0\refint\Interpolation.dll
+C:\Users\oempr\OneDrive\Documentos\Projects\actions\Interpolation\obj\Release\net8.0\Interpolation.pdb
+C:\Users\oempr\OneDrive\Documentos\Projects\actions\Interpolation\obj\Release\net8.0\Interpolation.genruntimeconfig.cache
+C:\Users\oempr\OneDrive\Documentos\Projects\actions\Interpolation\obj\Release\net8.0\ref\Interpolation.dll

@@ -1,0 +1,15 @@
+C:\Users\oempr\OneDrive\Documentos\Projects\actions\TesteConsole\bin\Release\net8.0\TesteConsole.exe
+C:\Users\oempr\OneDrive\Documentos\Projects\actions\TesteConsole\bin\Release\net8.0\TesteConsole.deps.json
+C:\Users\oempr\OneDrive\Documentos\Projects\actions\TesteConsole\bin\Release\net8.0\TesteConsole.runtimeconfig.json
+C:\Users\oempr\OneDrive\Documentos\Projects\actions\TesteConsole\bin\Release\net8.0\TesteConsole.dll
+C:\Users\oempr\OneDrive\Documentos\Projects\actions\TesteConsole\bin\Release\net8.0\TesteConsole.pdb
+C:\Users\oempr\OneDrive\Documentos\Projects\actions\TesteConsole\obj\Release\net8.0\TesteConsole.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\oempr\OneDrive\Documentos\Projects\actions\TesteConsole\obj\Release\net8.0\TesteConsole.AssemblyInfoInputs.cache
+C:\Users\oempr\OneDrive\Documentos\Projects\actions\TesteConsole\obj\Release\net8.0\TesteConsole.AssemblyInfo.cs
+C:\Users\oempr\OneDrive\Documentos\Projects\actions\TesteConsole\obj\Release\net8.0\TesteConsole.csproj.CoreCompileInputs.cache
+C:\Users\oempr\OneDrive\Documentos\Projects\actions\TesteConsole\obj\Release\net8.0\TesteConsole.sourcelink.json
+C:\Users\oempr\OneDrive\Documentos\Projects\actions\TesteConsole\obj\Release\net8.0\TesteConsole.dll
+C:\Users\oempr\OneDrive\Documentos\Projects\actions\TesteConsole\obj\Release\net8.0\refint\TesteConsole.dll
+C:\Users\oempr\OneDrive\Documentos\Projects\actions\TesteConsole\obj\Release\net8.0\TesteConsole.pdb
+C:\Users\oempr\OneDrive\Documentos\Projects\actions\TesteConsole\obj\Release\net8.0\TesteConsole.genruntimeconfig.cache
+C:\Users\oempr\OneDrive\Documentos\Projects\actions\TesteConsole\obj\Release\net8.0\ref\TesteConsole.dll
