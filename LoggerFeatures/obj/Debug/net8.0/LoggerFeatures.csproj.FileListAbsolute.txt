@@ -1,0 +1,6 @@
+C:\Users\oempr\OneDrive\Documentos\Projects\actions\LoggerFeatures\obj\Debug\net8.0\LoggerFeatures.csproj.AssemblyReference.cache
+C:\Users\oempr\OneDrive\Documentos\Projects\actions\LoggerFeatures\obj\Debug\net8.0\LoggerFeatures.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\oempr\OneDrive\Documentos\Projects\actions\LoggerFeatures\obj\Debug\net8.0\LoggerFeatures.AssemblyInfoInputs.cache
+C:\Users\oempr\OneDrive\Documentos\Projects\actions\LoggerFeatures\obj\Debug\net8.0\LoggerFeatures.AssemblyInfo.cs
+C:\Users\oempr\OneDrive\Documentos\Projects\actions\LoggerFeatures\obj\Debug\net8.0\LoggerFeatures.csproj.CoreCompileInputs.cache
+C:\Users\oempr\OneDrive\Documentos\Projects\actions\LoggerFeatures\obj\Debug\net8.0\LoggerFeatures.sourcelink.json

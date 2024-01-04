@@ -1,0 +1,15 @@
+C:\Users\oempr\OneDrive\Documentos\Projects\actions\AsyncTask\bin\Debug\net8.0\AsyncTask.exe
+C:\Users\oempr\OneDrive\Documentos\Projects\actions\AsyncTask\bin\Debug\net8.0\AsyncTask.deps.json
+C:\Users\oempr\OneDrive\Documentos\Projects\actions\AsyncTask\bin\Debug\net8.0\AsyncTask.runtimeconfig.json
+C:\Users\oempr\OneDrive\Documentos\Projects\actions\AsyncTask\bin\Debug\net8.0\AsyncTask.dll
+C:\Users\oempr\OneDrive\Documentos\Projects\actions\AsyncTask\bin\Debug\net8.0\AsyncTask.pdb
+C:\Users\oempr\OneDrive\Documentos\Projects\actions\AsyncTask\obj\Debug\net8.0\AsyncTask.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\oempr\OneDrive\Documentos\Projects\actions\AsyncTask\obj\Debug\net8.0\AsyncTask.AssemblyInfoInputs.cache
+C:\Users\oempr\OneDrive\Documentos\Projects\actions\AsyncTask\obj\Debug\net8.0\AsyncTask.AssemblyInfo.cs
+C:\Users\oempr\OneDrive\Documentos\Projects\actions\AsyncTask\obj\Debug\net8.0\AsyncTask.csproj.CoreCompileInputs.cache
+C:\Users\oempr\OneDrive\Documentos\Projects\actions\AsyncTask\obj\Debug\net8.0\AsyncTask.sourcelink.json
+C:\Users\oempr\OneDrive\Documentos\Projects\actions\AsyncTask\obj\Debug\net8.0\AsyncTask.dll
+C:\Users\oempr\OneDrive\Documentos\Projects\actions\AsyncTask\obj\Debug\net8.0\refint\AsyncTask.dll
+C:\Users\oempr\OneDrive\Documentos\Projects\actions\AsyncTask\obj\Debug\net8.0\AsyncTask.pdb
+C:\Users\oempr\OneDrive\Documentos\Projects\actions\AsyncTask\obj\Debug\net8.0\AsyncTask.genruntimeconfig.cache
+C:\Users\oempr\OneDrive\Documentos\Projects\actions\AsyncTask\obj\Debug\net8.0\ref\AsyncTask.dll

@@ -3,27 +3,76 @@
   "WorkspaceRootPath": "C:\\Users\\oempr\\OneDrive\\Documentos\\Projects\\actions\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\oempr\\OneDrive\\Documentos\\Projects\\BlazorDistribuited\\Blazor.Api.User\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{C91FAC42-6623-49E1-84E7-A65BAAD2EFB6}|DelegateEvent\\DelegateEvent.csproj|c:\\users\\oempr\\onedrive\\documentos\\projects\\actions\\delegateevent\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C91FAC42-6623-49E1-84E7-A65BAAD2EFB6}|DelegateEvent\\DelegateEvent.csproj|solutionrelative:delegateevent\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{8D813AFA-0165-4BCE-AD87-3EA87A08842C}|MassTransitDemo\\MassTransitDemo.csproj|c:\\users\\oempr\\onedrive\\documentos\\projects\\actions\\masstransitdemo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{8D813AFA-0165-4BCE-AD87-3EA87A08842C}|MassTransitDemo\\MassTransitDemo.csproj|solutionrelative:masstransitdemo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{4257C531-09F1-4D5C-A232-1FD85504280F}|CQRSMediatRExample.API\\CQRSMediatRExample.API.csproj|c:\\users\\oempr\\onedrive\\documentos\\projects\\actions\\cqrsmediatrexample.api\\controllers\\productscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4257C531-09F1-4D5C-A232-1FD85504280F}|CQRSMediatRExample.API\\CQRSMediatRExample.API.csproj|solutionrelative:cqrsmediatrexample.api\\controllers\\productscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{8D813AFA-0165-4BCE-AD87-3EA87A08842C}|MassTransitDemo\\MassTransitDemo.csproj|c:\\users\\oempr\\onedrive\\documentos\\projects\\actions\\masstransitdemo\\pingpublisher.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{8D813AFA-0165-4BCE-AD87-3EA87A08842C}|MassTransitDemo\\MassTransitDemo.csproj|solutionrelative:masstransitdemo\\pingpublisher.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{4257C531-09F1-4D5C-A232-1FD85504280F}|CQRSMediatRExample.API\\CQRSMediatRExample.API.csproj|c:\\users\\oempr\\onedrive\\documentos\\projects\\actions\\cqrsmediatrexample.api\\extensions\\orexceptionhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4257C531-09F1-4D5C-A232-1FD85504280F}|CQRSMediatRExample.API\\CQRSMediatRExample.API.csproj|solutionrelative:cqrsmediatrexample.api\\extensions\\orexceptionhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{8D813AFA-0165-4BCE-AD87-3EA87A08842C}|MassTransitDemo\\MassTransitDemo.csproj|c:\\users\\oempr\\onedrive\\documentos\\projects\\actions\\masstransitdemo\\pingconsumer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{8D813AFA-0165-4BCE-AD87-3EA87A08842C}|MassTransitDemo\\MassTransitDemo.csproj|solutionrelative:masstransitdemo\\pingconsumer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{4257C531-09F1-4D5C-A232-1FD85504280F}|CQRSMediatRExample.API\\CQRSMediatRExample.API.csproj|c:\\users\\oempr\\onedrive\\documentos\\projects\\actions\\cqrsmediatrexample.api\\usererrors.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4257C531-09F1-4D5C-A232-1FD85504280F}|CQRSMediatRExample.API\\CQRSMediatRExample.API.csproj|solutionrelative:cqrsmediatrexample.api\\usererrors.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{91554AB5-C69D-4728-908B-3A291EA0CCAD}|WebApp\\WebApp.csproj|c:\\users\\oempr\\onedrive\\documentos\\projects\\actions\\webapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{91554AB5-C69D-4728-908B-3A291EA0CCAD}|WebApp\\WebApp.csproj|solutionrelative:webapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{4257C531-09F1-4D5C-A232-1FD85504280F}|CQRSMediatRExample.API\\CQRSMediatRExample.API.csproj|c:\\users\\oempr\\onedrive\\documentos\\projects\\actions\\cqrsmediatrexample.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4257C531-09F1-4D5C-A232-1FD85504280F}|CQRSMediatRExample.API\\CQRSMediatRExample.API.csproj|solutionrelative:cqrsmediatrexample.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{91554AB5-C69D-4728-908B-3A291EA0CCAD}|WebApp\\WebApp.csproj|c:\\users\\oempr\\onedrive\\documentos\\projects\\actions\\webapp\\webapp.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
-      "RelativeMoniker": "D:0:0:{91554AB5-C69D-4728-908B-3A291EA0CCAD}|WebApp\\WebApp.csproj|solutionrelative:webapp\\webapp.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+      "AbsoluteMoniker": "D:0:0:{4257C531-09F1-4D5C-A232-1FD85504280F}|CQRSMediatRExample.API\\CQRSMediatRExample.API.csproj|c:\\users\\oempr\\onedrive\\documentos\\projects\\actions\\cqrsmediatrexample.api\\command\\addproduct\\addproductcommandhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4257C531-09F1-4D5C-A232-1FD85504280F}|CQRSMediatRExample.API\\CQRSMediatRExample.API.csproj|solutionrelative:cqrsmediatrexample.api\\command\\addproduct\\addproductcommandhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4257C531-09F1-4D5C-A232-1FD85504280F}|CQRSMediatRExample.API\\CQRSMediatRExample.API.csproj|c:\\users\\oempr\\onedrive\\documentos\\projects\\actions\\cqrsmediatrexample.api\\command\\listproduct\\listproductcommandhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4257C531-09F1-4D5C-A232-1FD85504280F}|CQRSMediatRExample.API\\CQRSMediatRExample.API.csproj|solutionrelative:cqrsmediatrexample.api\\command\\listproduct\\listproductcommandhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4257C531-09F1-4D5C-A232-1FD85504280F}|CQRSMediatRExample.API\\CQRSMediatRExample.API.csproj|c:\\users\\oempr\\onedrive\\documentos\\projects\\actions\\cqrsmediatrexample.api\\command\\listproduct\\listproductcommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4257C531-09F1-4D5C-A232-1FD85504280F}|CQRSMediatRExample.API\\CQRSMediatRExample.API.csproj|solutionrelative:cqrsmediatrexample.api\\command\\listproduct\\listproductcommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4257C531-09F1-4D5C-A232-1FD85504280F}|CQRSMediatRExample.API\\CQRSMediatRExample.API.csproj|c:\\users\\oempr\\onedrive\\documentos\\projects\\actions\\cqrsmediatrexample.api\\command\\addproduct\\addproductwithresultcommandhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4257C531-09F1-4D5C-A232-1FD85504280F}|CQRSMediatRExample.API\\CQRSMediatRExample.API.csproj|solutionrelative:cqrsmediatrexample.api\\command\\addproduct\\addproductwithresultcommandhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4257C531-09F1-4D5C-A232-1FD85504280F}|CQRSMediatRExample.API\\CQRSMediatRExample.API.csproj|c:\\users\\oempr\\onedrive\\documentos\\projects\\actions\\cqrsmediatrexample.api\\command\\addproduct\\addproductwithresultcommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4257C531-09F1-4D5C-A232-1FD85504280F}|CQRSMediatRExample.API\\CQRSMediatRExample.API.csproj|solutionrelative:cqrsmediatrexample.api\\command\\addproduct\\addproductwithresultcommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4257C531-09F1-4D5C-A232-1FD85504280F}|CQRSMediatRExample.API\\CQRSMediatRExample.API.csproj|c:\\users\\oempr\\onedrive\\documentos\\projects\\actions\\cqrsmediatrexample.api\\command\\addproduct\\addproductcommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4257C531-09F1-4D5C-A232-1FD85504280F}|CQRSMediatRExample.API\\CQRSMediatRExample.API.csproj|solutionrelative:cqrsmediatrexample.api\\command\\addproduct\\addproductcommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4257C531-09F1-4D5C-A232-1FD85504280F}|CQRSMediatRExample.API\\CQRSMediatRExample.API.csproj|c:\\users\\oempr\\onedrive\\documentos\\projects\\actions\\cqrsmediatrexample.api\\persistence\\cqrsmediatrbdcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4257C531-09F1-4D5C-A232-1FD85504280F}|CQRSMediatRExample.API\\CQRSMediatRExample.API.csproj|solutionrelative:cqrsmediatrexample.api\\persistence\\cqrsmediatrbdcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4257C531-09F1-4D5C-A232-1FD85504280F}|CQRSMediatRExample.API\\CQRSMediatRExample.API.csproj|c:\\users\\oempr\\onedrive\\documentos\\projects\\actions\\cqrsmediatrexample.api\\models\\customresult.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4257C531-09F1-4D5C-A232-1FD85504280F}|CQRSMediatRExample.API\\CQRSMediatRExample.API.csproj|solutionrelative:cqrsmediatrexample.api\\models\\customresult.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F3C0DA1B-4189-4532-9DA3-0B43435CFD2D}|AspireApp\\AspireApp.AppHost\\AspireApp.AppHost.csproj|c:\\users\\oempr\\onedrive\\documentos\\projects\\actions\\aspireapp\\aspireapp.apphost\\aspireapp.apphost.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{F3C0DA1B-4189-4532-9DA3-0B43435CFD2D}|AspireApp\\AspireApp.AppHost\\AspireApp.AppHost.csproj|solutionrelative:aspireapp\\aspireapp.apphost\\aspireapp.apphost.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4257C531-09F1-4D5C-A232-1FD85504280F}|CQRSMediatRExample.API\\CQRSMediatRExample.API.csproj|c:\\users\\oempr\\onedrive\\documentos\\projects\\actions\\cqrsmediatrexample.api\\cqrsmediatrexample.api.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{4257C531-09F1-4D5C-A232-1FD85504280F}|CQRSMediatRExample.API\\CQRSMediatRExample.API.csproj|solutionrelative:cqrsmediatrexample.api\\cqrsmediatrexample.api.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BA0A6403-AF86-480E-A1EE-8C164D00086C}|LoadTesting{BA0A6403-AF86-480E-A1EE-8C164D00086C}|C:\\Users\\oempr\\OneDrive\\Documentos\\Projects\\actions\\sample_test_js.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{BA0A6403-AF86-480E-A1EE-8C164D00086C}|LoadTesting{BA0A6403-AF86-480E-A1EE-8C164D00086C}|solutionrelative:sample_test_js.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2B2C4F45-72AB-4DCC-99C9-39ACD99DAF4E}|WebAPI\\WebAPI.csproj|c:\\users\\oempr\\onedrive\\documentos\\projects\\actions\\webapi\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{2B2C4F45-72AB-4DCC-99C9-39ACD99DAF4E}|WebAPI\\WebAPI.csproj|solutionrelative:webapi\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{859C288B-893F-4AA8-A02B-C6D4AD00C737}|TesteConsole\\TesteConsole.csproj|c:\\users\\oempr\\onedrive\\documentos\\projects\\actions\\testeconsole\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{859C288B-893F-4AA8-A02B-C6D4AD00C737}|TesteConsole\\TesteConsole.csproj|solutionrelative:testeconsole\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -39,75 +88,220 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\oempr\\OneDrive\\Documentos\\Projects\\BlazorDistribuited\\Blazor.Api.User\\Program.cs",
-              "RelativeDocumentMoniker": "..\\BlazorDistribuited\\Blazor.Api.User\\Program.cs",
-              "ToolTip": "C:\\Users\\oempr\\OneDrive\\Documentos\\Projects\\BlazorDistribuited\\Blazor.Api.User\\Program.cs",
-              "RelativeToolTip": "..\\BlazorDistribuited\\Blazor.Api.User\\Program.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "DocumentMoniker": "C:\\Users\\oempr\\OneDrive\\Documentos\\Projects\\actions\\DelegateEvent\\Program.cs",
+              "RelativeDocumentMoniker": "DelegateEvent\\Program.cs",
+              "ToolTip": "C:\\Users\\oempr\\OneDrive\\Documentos\\Projects\\actions\\DelegateEvent\\Program.cs",
+              "RelativeToolTip": "DelegateEvent\\Program.cs",
+              "ViewState": "AQIAABgAAAAAAAAAAAAUwDUAAAAmAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2023-12-24T18:37:04.663Z",
+              "WhenOpened": "2024-01-04T12:41:16.628Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 3,
-              "Title": "PingConsumer.cs",
-              "DocumentMoniker": "C:\\Users\\oempr\\OneDrive\\Documentos\\Projects\\actions\\MassTransitDemo\\PingConsumer.cs",
-              "RelativeDocumentMoniker": "MassTransitDemo\\PingConsumer.cs",
-              "ToolTip": "C:\\Users\\oempr\\OneDrive\\Documentos\\Projects\\actions\\MassTransitDemo\\PingConsumer.cs",
-              "RelativeToolTip": "MassTransitDemo\\PingConsumer.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAFAAAA",
+              "Title": "UserErrors.cs",
+              "DocumentMoniker": "C:\\Users\\oempr\\OneDrive\\Documentos\\Projects\\actions\\CQRSMediatRExample.API\\UserErrors.cs",
+              "RelativeDocumentMoniker": "CQRSMediatRExample.API\\UserErrors.cs",
+              "ToolTip": "C:\\Users\\oempr\\OneDrive\\Documentos\\Projects\\actions\\CQRSMediatRExample.API\\UserErrors.cs",
+              "RelativeToolTip": "CQRSMediatRExample.API\\UserErrors.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAFAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2023-12-23T23:37:32.513Z"
+              "WhenOpened": "2024-01-01T19:04:37.886Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "PingPublisher.cs",
-              "DocumentMoniker": "C:\\Users\\oempr\\OneDrive\\Documentos\\Projects\\actions\\MassTransitDemo\\PingPublisher.cs",
-              "RelativeDocumentMoniker": "MassTransitDemo\\PingPublisher.cs",
-              "ToolTip": "C:\\Users\\oempr\\OneDrive\\Documentos\\Projects\\actions\\MassTransitDemo\\PingPublisher.cs",
-              "RelativeToolTip": "MassTransitDemo\\PingPublisher.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAfAAAA",
+              "DocumentIndex": 1,
+              "Title": "ProductsController.cs",
+              "DocumentMoniker": "C:\\Users\\oempr\\OneDrive\\Documentos\\Projects\\actions\\CQRSMediatRExample.API\\Controllers\\ProductsController.cs",
+              "RelativeDocumentMoniker": "CQRSMediatRExample.API\\Controllers\\ProductsController.cs",
+              "ToolTip": "C:\\Users\\oempr\\OneDrive\\Documentos\\Projects\\actions\\CQRSMediatRExample.API\\Controllers\\ProductsController.cs",
+              "RelativeToolTip": "CQRSMediatRExample.API\\Controllers\\ProductsController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABQAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2023-12-23T23:36:20.098Z"
+              "WhenOpened": "2023-12-31T01:09:07.49Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 5,
-              "Title": "WebApp.csproj",
-              "DocumentMoniker": "C:\\Users\\oempr\\OneDrive\\Documentos\\Projects\\actions\\WebApp\\WebApp.csproj",
-              "RelativeDocumentMoniker": "WebApp\\WebApp.csproj",
-              "ToolTip": "C:\\Users\\oempr\\OneDrive\\Documentos\\Projects\\actions\\WebApp\\WebApp.csproj",
-              "RelativeToolTip": "WebApp\\WebApp.csproj",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAzAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2023-12-23T23:07:26.565Z"
+              "Title": "AddProductCommandHandler.cs",
+              "DocumentMoniker": "C:\\Users\\oempr\\OneDrive\\Documentos\\Projects\\actions\\CQRSMediatRExample.API\\Command\\AddProduct\\AddProductCommandHandler.cs",
+              "RelativeDocumentMoniker": "CQRSMediatRExample.API\\Command\\AddProduct\\AddProductCommandHandler.cs",
+              "ToolTip": "C:\\Users\\oempr\\OneDrive\\Documentos\\Projects\\actions\\CQRSMediatRExample.API\\Command\\AddProduct\\AddProductCommandHandler.cs",
+              "RelativeToolTip": "CQRSMediatRExample.API\\Command\\AddProduct\\AddProductCommandHandler.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2023-12-31T01:13:20.148Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "AddProductWithResultCommand.cs",
+              "DocumentMoniker": "C:\\Users\\oempr\\OneDrive\\Documentos\\Projects\\actions\\CQRSMediatRExample.API\\Command\\AddProduct\\AddProductWithResultCommand.cs",
+              "RelativeDocumentMoniker": "CQRSMediatRExample.API\\Command\\AddProduct\\AddProductWithResultCommand.cs",
+              "ToolTip": "C:\\Users\\oempr\\OneDrive\\Documentos\\Projects\\actions\\CQRSMediatRExample.API\\Command\\AddProduct\\AddProductWithResultCommand.cs",
+              "RelativeToolTip": "CQRSMediatRExample.API\\Command\\AddProduct\\AddProductWithResultCommand.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAuwAoAAAAUAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2023-12-31T01:15:42.116Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 4,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\oempr\\OneDrive\\Documentos\\Projects\\actions\\WebApp\\Program.cs",
-              "RelativeDocumentMoniker": "WebApp\\Program.cs",
-              "ToolTip": "C:\\Users\\oempr\\OneDrive\\Documentos\\Projects\\actions\\WebApp\\Program.cs",
-              "RelativeToolTip": "WebApp\\Program.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAqAAAA",
+              "DocumentMoniker": "C:\\Users\\oempr\\OneDrive\\Documentos\\Projects\\actions\\CQRSMediatRExample.API\\Program.cs",
+              "RelativeDocumentMoniker": "CQRSMediatRExample.API\\Program.cs",
+              "ToolTip": "C:\\Users\\oempr\\OneDrive\\Documentos\\Projects\\actions\\CQRSMediatRExample.API\\Program.cs",
+              "RelativeToolTip": "CQRSMediatRExample.API\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABYAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2023-12-23T23:05:24.185Z"
+              "WhenOpened": "2023-12-31T01:17:18.693Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\oempr\\OneDrive\\Documentos\\Projects\\actions\\MassTransitDemo\\Program.cs",
-              "RelativeDocumentMoniker": "MassTransitDemo\\Program.cs",
-              "ToolTip": "C:\\Users\\oempr\\OneDrive\\Documentos\\Projects\\actions\\MassTransitDemo\\Program.cs",
-              "RelativeToolTip": "MassTransitDemo\\Program.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAAAAAAA",
+              "DocumentIndex": 2,
+              "Title": "OrExceptionHandler.cs",
+              "DocumentMoniker": "C:\\Users\\oempr\\OneDrive\\Documentos\\Projects\\actions\\CQRSMediatRExample.API\\Extensions\\OrExceptionHandler.cs",
+              "RelativeDocumentMoniker": "CQRSMediatRExample.API\\Extensions\\OrExceptionHandler.cs",
+              "ToolTip": "C:\\Users\\oempr\\OneDrive\\Documentos\\Projects\\actions\\CQRSMediatRExample.API\\Extensions\\OrExceptionHandler.cs",
+              "RelativeToolTip": "CQRSMediatRExample.API\\Extensions\\OrExceptionHandler.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2023-12-23T22:45:40.006Z",
+              "WhenOpened": "2024-01-01T19:11:54.026Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "AddProductCommand.cs",
+              "DocumentMoniker": "C:\\Users\\oempr\\OneDrive\\Documentos\\Projects\\actions\\CQRSMediatRExample.API\\Command\\AddProduct\\AddProductCommand.cs",
+              "RelativeDocumentMoniker": "CQRSMediatRExample.API\\Command\\AddProduct\\AddProductCommand.cs",
+              "ToolTip": "C:\\Users\\oempr\\OneDrive\\Documentos\\Projects\\actions\\CQRSMediatRExample.API\\Command\\AddProduct\\AddProductCommand.cs",
+              "RelativeToolTip": "CQRSMediatRExample.API\\Command\\AddProduct\\AddProductCommand.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAuwAoAAAAPAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2023-12-31T01:11:41.267Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ListProductCommandHandler.cs",
+              "DocumentMoniker": "C:\\Users\\oempr\\OneDrive\\Documentos\\Projects\\actions\\CQRSMediatRExample.API\\Command\\ListProduct\\ListProductCommandHandler.cs",
+              "RelativeDocumentMoniker": "CQRSMediatRExample.API\\Command\\ListProduct\\ListProductCommandHandler.cs",
+              "ToolTip": "C:\\Users\\oempr\\OneDrive\\Documentos\\Projects\\actions\\CQRSMediatRExample.API\\Command\\ListProduct\\ListProductCommandHandler.cs",
+              "RelativeToolTip": "CQRSMediatRExample.API\\Command\\ListProduct\\ListProductCommandHandler.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAA4AAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2023-12-31T02:00:47.698Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "ListProductCommand.cs",
+              "DocumentMoniker": "C:\\Users\\oempr\\OneDrive\\Documentos\\Projects\\actions\\CQRSMediatRExample.API\\Command\\ListProduct\\ListProductCommand.cs",
+              "RelativeDocumentMoniker": "CQRSMediatRExample.API\\Command\\ListProduct\\ListProductCommand.cs",
+              "ToolTip": "C:\\Users\\oempr\\OneDrive\\Documentos\\Projects\\actions\\CQRSMediatRExample.API\\Command\\ListProduct\\ListProductCommand.cs",
+              "RelativeToolTip": "CQRSMediatRExample.API\\Command\\ListProduct\\ListProductCommand.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2023-12-31T02:22:34.02Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "AddProductWithResultCommandHandler.cs",
+              "DocumentMoniker": "C:\\Users\\oempr\\OneDrive\\Documentos\\Projects\\actions\\CQRSMediatRExample.API\\Command\\AddProduct\\AddProductWithResultCommandHandler.cs",
+              "RelativeDocumentMoniker": "CQRSMediatRExample.API\\Command\\AddProduct\\AddProductWithResultCommandHandler.cs",
+              "ToolTip": "C:\\Users\\oempr\\OneDrive\\Documentos\\Projects\\actions\\CQRSMediatRExample.API\\Command\\AddProduct\\AddProductWithResultCommandHandler.cs",
+              "RelativeToolTip": "CQRSMediatRExample.API\\Command\\AddProduct\\AddProductWithResultCommandHandler.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2023-12-31T01:14:27.623Z",
               "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "CqrsMediatRBdContext.cs",
+              "DocumentMoniker": "C:\\Users\\oempr\\OneDrive\\Documentos\\Projects\\actions\\CQRSMediatRExample.API\\Persistence\\CqrsMediatRBdContext.cs",
+              "RelativeDocumentMoniker": "CQRSMediatRExample.API\\Persistence\\CqrsMediatRBdContext.cs",
+              "ToolTip": "C:\\Users\\oempr\\OneDrive\\Documentos\\Projects\\actions\\CQRSMediatRExample.API\\Persistence\\CqrsMediatRBdContext.cs",
+              "RelativeToolTip": "CQRSMediatRExample.API\\Persistence\\CqrsMediatRBdContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2023-12-31T01:46:29.588Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "CustomResult.cs",
+              "DocumentMoniker": "C:\\Users\\oempr\\OneDrive\\Documentos\\Projects\\actions\\CQRSMediatRExample.API\\Models\\CustomResult.cs",
+              "RelativeDocumentMoniker": "CQRSMediatRExample.API\\Models\\CustomResult.cs",
+              "ToolTip": "C:\\Users\\oempr\\OneDrive\\Documentos\\Projects\\actions\\CQRSMediatRExample.API\\Models\\CustomResult.cs",
+              "RelativeToolTip": "CQRSMediatRExample.API\\Models\\CustomResult.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2023-12-31T01:29:38.366Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "AspireApp.AppHost.csproj",
+              "DocumentMoniker": "C:\\Users\\oempr\\OneDrive\\Documentos\\Projects\\actions\\AspireApp\\AspireApp.AppHost\\AspireApp.AppHost.csproj",
+              "RelativeDocumentMoniker": "AspireApp\\AspireApp.AppHost\\AspireApp.AppHost.csproj",
+              "ToolTip": "C:\\Users\\oempr\\OneDrive\\Documentos\\Projects\\actions\\AspireApp\\AspireApp.AppHost\\AspireApp.AppHost.csproj",
+              "RelativeToolTip": "AspireApp\\AspireApp.AppHost\\AspireApp.AppHost.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2023-12-31T01:04:03.197Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "CQRSMediatRExample.API.csproj",
+              "DocumentMoniker": "C:\\Users\\oempr\\OneDrive\\Documentos\\Projects\\actions\\CQRSMediatRExample.API\\CQRSMediatRExample.API.csproj",
+              "RelativeDocumentMoniker": "CQRSMediatRExample.API\\CQRSMediatRExample.API.csproj",
+              "ToolTip": "C:\\Users\\oempr\\OneDrive\\Documentos\\Projects\\actions\\CQRSMediatRExample.API\\CQRSMediatRExample.API.csproj",
+              "RelativeToolTip": "CQRSMediatRExample.API\\CQRSMediatRExample.API.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2023-12-31T01:04:02.97Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "C:\\Users\\oempr\\OneDrive\\Documentos\\Projects\\actions\\WebAPI\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "WebAPI\\Properties\\launchSettings.json",
+              "ToolTip": "C:\\Users\\oempr\\OneDrive\\Documentos\\Projects\\actions\\WebAPI\\Properties\\launchSettings.json",
+              "RelativeToolTip": "WebAPI\\Properties\\launchSettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAAfAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2023-12-30T23:39:42.897Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "sample_test_js.js",
+              "DocumentMoniker": "C:\\Users\\oempr\\OneDrive\\Documentos\\Projects\\actions\\sample_test_js.js",
+              "RelativeDocumentMoniker": "sample_test_js.js",
+              "ToolTip": "C:\\Users\\oempr\\OneDrive\\Documentos\\Projects\\actions\\sample_test_js.js",
+              "RelativeToolTip": "sample_test_js.js",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAACAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2023-12-30T23:29:01.505Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\oempr\\OneDrive\\Documentos\\Projects\\actions\\TesteConsole\\Program.cs",
+              "RelativeDocumentMoniker": "TesteConsole\\Program.cs",
+              "ToolTip": "C:\\Users\\oempr\\OneDrive\\Documentos\\Projects\\actions\\TesteConsole\\Program.cs",
+              "RelativeToolTip": "TesteConsole\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAwAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2023-12-30T19:52:57.29Z"
             }
           ]
         }

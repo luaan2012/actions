@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "NNRrfvrG/6imHRzY4umAxOpAbCcjdpsgW4APiwnf5GouiI6FSvKiSSJgRnBWDTjNOOnyvwP3QB706ZZZRMgdEw==",
+  "dgSpecHash": "QIa8hywaKBO5mPnyG7AIJf06jdIsOiBPKHZuhzzbsmiUQN6nC1hOP7PesUNJCeUi3TI9xdl7llkOMLPBH3f0FA==",
   "success": true,
   "projectFilePath": "C:\\Users\\oempr\\OneDrive\\Documentos\\Projects\\actions\\AspireApp\\AspireApp.AppHost\\AspireApp.AppHost.csproj",
   "expectedPackageFiles": [
@@ -25,6 +25,8 @@
     "C:\\Users\\oempr\\.nuget\\packages\\kubernetesclient\\11.0.36\\kubernetesclient.11.0.36.nupkg.sha512",
     "C:\\Users\\oempr\\.nuget\\packages\\kubernetesclient.basic\\11.0.36\\kubernetesclient.basic.11.0.36.nupkg.sha512",
     "C:\\Users\\oempr\\.nuget\\packages\\kubernetesclient.models\\11.0.36\\kubernetesclient.models.11.0.36.nupkg.sha512",
+    "C:\\Users\\oempr\\.nuget\\packages\\mediatr\\12.2.0\\mediatr.12.2.0.nupkg.sha512",
+    "C:\\Users\\oempr\\.nuget\\packages\\mediatr.contracts\\2.0.1\\mediatr.contracts.2.0.1.nupkg.sha512",
     "C:\\Users\\oempr\\.nuget\\packages\\microsoft.aspnetcore.authorization\\8.0.0-rc.2.23480.2\\microsoft.aspnetcore.authorization.8.0.0-rc.2.23480.2.nupkg.sha512",
     "C:\\Users\\oempr\\.nuget\\packages\\microsoft.aspnetcore.components\\8.0.0-rc.2.23480.2\\microsoft.aspnetcore.components.8.0.0-rc.2.23480.2.nupkg.sha512",
     "C:\\Users\\oempr\\.nuget\\packages\\microsoft.aspnetcore.components.analyzers\\8.0.0-rc.2.23480.2\\microsoft.aspnetcore.components.analyzers.8.0.0-rc.2.23480.2.nupkg.sha512",
@@ -101,6 +103,7 @@
     "C:\\Users\\oempr\\.nuget\\packages\\opentelemetry.instrumentation.runtime\\1.5.1\\opentelemetry.instrumentation.runtime.1.5.1.nupkg.sha512",
     "C:\\Users\\oempr\\.nuget\\packages\\opentelemetry.instrumentation.stackexchangeredis\\1.0.0-rc9.12\\opentelemetry.instrumentation.stackexchangeredis.1.0.0-rc9.12.nupkg.sha512",
     "C:\\Users\\oempr\\.nuget\\packages\\pipelines.sockets.unofficial\\2.2.8\\pipelines.sockets.unofficial.2.2.8.nupkg.sha512",
+    "C:\\Users\\oempr\\.nuget\\packages\\pipoburgos.sharedkernel.domain\\8.0.0.4\\pipoburgos.sharedkernel.domain.8.0.0.4.nupkg.sha512",
     "C:\\Users\\oempr\\.nuget\\packages\\polly.core\\8.0.0\\polly.core.8.0.0.nupkg.sha512",
     "C:\\Users\\oempr\\.nuget\\packages\\polly.extensions\\8.0.0\\polly.extensions.8.0.0.nupkg.sha512",
     "C:\\Users\\oempr\\.nuget\\packages\\polly.ratelimiting\\8.0.0\\polly.ratelimiting.8.0.0.nupkg.sha512",

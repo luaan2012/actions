@@ -1,0 +1,5 @@
+C:\Users\oempr\OneDrive\Documentos\Projects\actions\Bogus\obj\Debug\net8.0\Bogus.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\oempr\OneDrive\Documentos\Projects\actions\Bogus\obj\Debug\net8.0\Bogus.AssemblyInfoInputs.cache
+C:\Users\oempr\OneDrive\Documentos\Projects\actions\Bogus\obj\Debug\net8.0\Bogus.AssemblyInfo.cs
+C:\Users\oempr\OneDrive\Documentos\Projects\actions\Bogus\obj\Debug\net8.0\Bogus.csproj.CoreCompileInputs.cache
+C:\Users\oempr\OneDrive\Documentos\Projects\actions\Bogus\obj\Debug\net8.0\Bogus.sourcelink.json

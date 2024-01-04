@@ -1,0 +1,12 @@
+C:\Users\oempr\OneDrive\Documentos\Projects\actions\Application\bin\Debug\net6.0\Application.deps.json
+C:\Users\oempr\OneDrive\Documentos\Projects\actions\Application\bin\Debug\net6.0\Application.dll
+C:\Users\oempr\OneDrive\Documentos\Projects\actions\Application\bin\Debug\net6.0\Application.pdb
+C:\Users\oempr\OneDrive\Documentos\Projects\actions\Application\obj\Debug\net6.0\Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\oempr\OneDrive\Documentos\Projects\actions\Application\obj\Debug\net6.0\Application.AssemblyInfoInputs.cache
+C:\Users\oempr\OneDrive\Documentos\Projects\actions\Application\obj\Debug\net6.0\Application.AssemblyInfo.cs
+C:\Users\oempr\OneDrive\Documentos\Projects\actions\Application\obj\Debug\net6.0\Application.csproj.CoreCompileInputs.cache
+C:\Users\oempr\OneDrive\Documentos\Projects\actions\Application\obj\Debug\net6.0\Application.sourcelink.json
+C:\Users\oempr\OneDrive\Documentos\Projects\actions\Application\obj\Debug\net6.0\Application.dll
+C:\Users\oempr\OneDrive\Documentos\Projects\actions\Application\obj\Debug\net6.0\refint\Application.dll
+C:\Users\oempr\OneDrive\Documentos\Projects\actions\Application\obj\Debug\net6.0\Application.pdb
+C:\Users\oempr\OneDrive\Documentos\Projects\actions\Application\obj\Debug\net6.0\ref\Application.dll

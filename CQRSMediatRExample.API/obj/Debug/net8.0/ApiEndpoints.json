@@ -1,0 +1,50 @@
+[
+  {
+    "ContainingType": "CQRSMediatRExample.API.Controllers.ProductsController",
+    "Method": "Get",
+    "RelativePath": "api/products/Get",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "command",
+        "Type": "CQRSMediatRExample.API.Command.ListProduct.ListProductCommand",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "CQRSMediatRExample.API.Controllers.ProductsController",
+    "Method": "Post",
+    "RelativePath": "api/products/Post1",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "command",
+        "Type": "CQRSMediatRExample.API.Command.AddProduct.AddProductCommand",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "CQRSMediatRExample.API.Controllers.ProductsController",
+    "Method": "Post",
+    "RelativePath": "api/products/Post2",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "command",
+        "Type": "CQRSMediatRExample.API.Command.AddProduct.AddProductWithResultCommand",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  }
+]

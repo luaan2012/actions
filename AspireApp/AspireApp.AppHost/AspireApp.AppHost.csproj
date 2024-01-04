@@ -13,6 +13,7 @@
   </ItemGroup>
 
   <ItemGroup>
+    <ProjectReference Include="..\..\CQRSMediatRExample.API\CQRSMediatRExample.API.csproj" />
     <ProjectReference Include="..\..\WebAPI\WebAPI.csproj" />
     <ProjectReference Include="..\..\WebApp\WebApp.csproj" />
   </ItemGroup>

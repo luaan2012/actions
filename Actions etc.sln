@@ -41,19 +41,28 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "WebApp", "WebApp\WebApp.csp
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "WebAPI", "WebAPI\WebAPI.csproj", "{2B2C4F45-72AB-4DCC-99C9-39ACD99DAF4E}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AspireApp.AppHost", "AspireApp\AspireApp.AppHost\AspireApp.AppHost.csproj", "{F3C0DA1B-4189-4532-9DA3-0B43435CFD2D}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "AspireApp.AppHost", "AspireApp\AspireApp.AppHost\AspireApp.AppHost.csproj", "{F3C0DA1B-4189-4532-9DA3-0B43435CFD2D}"
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "AspireApp.ServiceDefaults", "AspireApp\AspireApp.ServiceDefaults\AspireApp.ServiceDefaults.csproj", "{B382375B-7FE7-42F7-8561-EBF0A05B298D}"
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "MassTransient", "MassTransient", "{44AF81CF-BD65-4539-AD19-E618B873F9C1}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MassTransitDemo", "MassTransitDemo\MassTransitDemo.csproj", "{8D813AFA-0165-4BCE-AD87-3EA87A08842C}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "MassTransitDemo", "MassTransitDemo\MassTransitDemo.csproj", "{8D813AFA-0165-4BCE-AD87-3EA87A08842C}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TesteConsole", "TesteConsole\TesteConsole.csproj", "{859C288B-893F-4AA8-A02B-C6D4AD00C737}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "TesteConsole", "TesteConsole\TesteConsole.csproj", "{859C288B-893F-4AA8-A02B-C6D4AD00C737}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MyOwnToolCli", "MyOwnToolCli\MyOwnToolCli.csproj", "{D536946D-BDF6-4A84-BB86-E6876B4149AB}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "MyOwnToolCli", "MyOwnToolCli\MyOwnToolCli.csproj", "{D536946D-BDF6-4A84-BB86-E6876B4149AB}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RecordType", "RecordType\RecordType.csproj", "{F00DB07B-5980-4D22-8C68-D494D3CA3484}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "RecordType", "RecordType\RecordType.csproj", "{F00DB07B-5980-4D22-8C68-D494D3CA3484}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "LoadTesting", "LoadTesting", "{BA0A6403-AF86-480E-A1EE-8C164D00086C}"
+	ProjectSection(SolutionItems) = preProject
+		sample_test_js.js = sample_test_js.js
+	EndProjectSection
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CQRSMediatRExample.API", "CQRSMediatRExample.API\CQRSMediatRExample.API.csproj", "{4257C531-09F1-4D5C-A232-1FD85504280F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DelegateEvent", "DelegateEvent\DelegateEvent.csproj", "{C91FAC42-6623-49E1-84E7-A65BAAD2EFB6}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -145,6 +154,14 @@ Global
 		{F00DB07B-5980-4D22-8C68-D494D3CA3484}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{F00DB07B-5980-4D22-8C68-D494D3CA3484}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{F00DB07B-5980-4D22-8C68-D494D3CA3484}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4257C531-09F1-4D5C-A232-1FD85504280F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4257C531-09F1-4D5C-A232-1FD85504280F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4257C531-09F1-4D5C-A232-1FD85504280F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4257C531-09F1-4D5C-A232-1FD85504280F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C91FAC42-6623-49E1-84E7-A65BAAD2EFB6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C91FAC42-6623-49E1-84E7-A65BAAD2EFB6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C91FAC42-6623-49E1-84E7-A65BAAD2EFB6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C91FAC42-6623-49E1-84E7-A65BAAD2EFB6}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -161,6 +178,7 @@ Global
 		{F3C0DA1B-4189-4532-9DA3-0B43435CFD2D} = {03B94E91-BFBD-44B1-ABCF-DEB9137F1357}
 		{B382375B-7FE7-42F7-8561-EBF0A05B298D} = {03B94E91-BFBD-44B1-ABCF-DEB9137F1357}
 		{8D813AFA-0165-4BCE-AD87-3EA87A08842C} = {44AF81CF-BD65-4539-AD19-E618B873F9C1}
+		{BA0A6403-AF86-480E-A1EE-8C164D00086C} = {03B94E91-BFBD-44B1-ABCF-DEB9137F1357}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {8CDADC51-5B18-49C0-B293-94E81431EEF5}

@@ -1,0 +1,12 @@
+C:\Users\oempr\OneDrive\Documentos\Projects\actions\WebUI\bin\Debug\net6.0\WebUI.deps.json
+C:\Users\oempr\OneDrive\Documentos\Projects\actions\WebUI\bin\Debug\net6.0\WebUI.dll
+C:\Users\oempr\OneDrive\Documentos\Projects\actions\WebUI\bin\Debug\net6.0\WebUI.pdb
+C:\Users\oempr\OneDrive\Documentos\Projects\actions\WebUI\obj\Debug\net6.0\WebUI.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\oempr\OneDrive\Documentos\Projects\actions\WebUI\obj\Debug\net6.0\WebUI.AssemblyInfoInputs.cache
+C:\Users\oempr\OneDrive\Documentos\Projects\actions\WebUI\obj\Debug\net6.0\WebUI.AssemblyInfo.cs
+C:\Users\oempr\OneDrive\Documentos\Projects\actions\WebUI\obj\Debug\net6.0\WebUI.csproj.CoreCompileInputs.cache
+C:\Users\oempr\OneDrive\Documentos\Projects\actions\WebUI\obj\Debug\net6.0\WebUI.sourcelink.json
+C:\Users\oempr\OneDrive\Documentos\Projects\actions\WebUI\obj\Debug\net6.0\WebUI.dll
+C:\Users\oempr\OneDrive\Documentos\Projects\actions\WebUI\obj\Debug\net6.0\refint\WebUI.dll
+C:\Users\oempr\OneDrive\Documentos\Projects\actions\WebUI\obj\Debug\net6.0\WebUI.pdb
+C:\Users\oempr\OneDrive\Documentos\Projects\actions\WebUI\obj\Debug\net6.0\ref\WebUI.dll

@@ -29,6 +29,9 @@
           "net8.0": {
             "targetAlias": "net8.0",
             "projectReferences": {
+              "C:\\Users\\oempr\\OneDrive\\Documentos\\Projects\\actions\\CQRSMediatRExample.API\\CQRSMediatRExample.API.csproj": {
+                "projectPath": "C:\\Users\\oempr\\OneDrive\\Documentos\\Projects\\actions\\CQRSMediatRExample.API\\CQRSMediatRExample.API.csproj"
+              },
               "C:\\Users\\oempr\\OneDrive\\Documentos\\Projects\\actions\\WebAPI\\WebAPI.csproj": {
                 "projectPath": "C:\\Users\\oempr\\OneDrive\\Documentos\\Projects\\actions\\WebAPI\\WebAPI.csproj"
               },
@@ -151,6 +154,88 @@
             "OpenTelemetry.Instrumentation.Runtime": {
               "target": "Package",
               "version": "[1.5.1, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.AspNetCore.App": {
+              "privateAssets": "none"
+            },
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.100/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\oempr\\OneDrive\\Documentos\\Projects\\actions\\CQRSMediatRExample.API\\CQRSMediatRExample.API.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\oempr\\OneDrive\\Documentos\\Projects\\actions\\CQRSMediatRExample.API\\CQRSMediatRExample.API.csproj",
+        "projectName": "CQRSMediatRExample.API",
+        "projectPath": "C:\\Users\\oempr\\OneDrive\\Documentos\\Projects\\actions\\CQRSMediatRExample.API\\CQRSMediatRExample.API.csproj",
+        "packagesPath": "C:\\Users\\oempr\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\oempr\\OneDrive\\Documentos\\Projects\\actions\\CQRSMediatRExample.API\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\oempr\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {
+              "C:\\Users\\oempr\\OneDrive\\Documentos\\Projects\\actions\\AspireApp\\AspireApp.ServiceDefaults\\AspireApp.ServiceDefaults.csproj": {
+                "projectPath": "C:\\Users\\oempr\\OneDrive\\Documentos\\Projects\\actions\\AspireApp\\AspireApp.ServiceDefaults\\AspireApp.ServiceDefaults.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "dependencies": {
+            "MediatR": {
+              "target": "Package",
+              "version": "[12.2.0, )"
+            },
+            "Pipoburgos.SharedKernel.Domain": {
+              "target": "Package",
+              "version": "[8.0.0.4, )"
+            },
+            "Swashbuckle.AspNetCore": {
+              "target": "Package",
+              "version": "[6.4.0, )"
             }
           },
           "imports": [
