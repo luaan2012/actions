@@ -92,6 +92,7 @@ C:\Users\luan.santos\Desktop\Projetos e anotações\testes\Actions etc\AnyCountA
 C:\Users\luan.santos\Desktop\Projetos e anotações\testes\Actions etc\AnyCountAndLinq\obj\Debug\net8.0\AnyCountAndLinq.pdb
 C:\Users\luan.santos\Desktop\Projetos e anotações\testes\Actions etc\AnyCountAndLinq\obj\Debug\net8.0\AnyCountAndLinq.genruntimeconfig.cache
 C:\Users\luan.santos\Desktop\Projetos e anotações\testes\Actions etc\AnyCountAndLinq\obj\Debug\net8.0\ref\AnyCountAndLinq.dll
+<<<<<<< HEAD
 C:\Users\oempr\OneDrive\Documentos\Projects\actions\AnyCountAndLinq\bin\Debug\net8.0\x86\KernelTraceControl.dll
 C:\Users\oempr\OneDrive\Documentos\Projects\actions\AnyCountAndLinq\bin\Debug\net8.0\x86\KernelTraceControl.Win61.dll
 C:\Users\oempr\OneDrive\Documentos\Projects\actions\AnyCountAndLinq\bin\Debug\net8.0\x86\msdia140.dll
@@ -187,3 +188,6 @@ C:\Users\oempr\OneDrive\Documentos\Projects\actions\AnyCountAndLinq\obj\Debug\ne
 C:\Users\oempr\OneDrive\Documentos\Projects\actions\AnyCountAndLinq\obj\Debug\net8.0\AnyCountAndLinq.pdb
 C:\Users\oempr\OneDrive\Documentos\Projects\actions\AnyCountAndLinq\obj\Debug\net8.0\AnyCountAndLinq.genruntimeconfig.cache
 C:\Users\oempr\OneDrive\Documentos\Projects\actions\AnyCountAndLinq\obj\Debug\net8.0\ref\AnyCountAndLinq.dll
+=======
+C:\Users\luan.santos\Desktop\Projetos e anotações\testes\Actions etc\AnyCountAndLinq\obj\Debug\net8.0\AnyCountAndLinq.sourcelink.json
+>>>>>>> ad6fb899455616dd8b321361aa993c1470f659bc

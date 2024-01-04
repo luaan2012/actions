@@ -1,8 +1,15 @@
 {
   "version": 2,
-  "dgSpecHash": "0BEaG7Iq8QsP3yVujdGBIgF5/c0xYISAQwyYW04x71zl55dCProO9OC0nE5Ot2HmgN8/9apKlOkViLypPuUkDg==",
+  "dgSpecHash": "MNug4S+Y4M9kr/YJ7cJ9QbBpDviYYHCsP8nk5XSPy46LQVqzrVPxM/tBJyGKJ0op5Gk69EpYymP1/+lvp8zm1Q==",
   "success": true,
-  "projectFilePath": "C:\\Users\\oempr\\OneDrive\\Documentos\\Projects\\actions\\AsyncTask\\AsyncTask.csproj",
+  "projectFilePath": "C:\\Users\\luan.santos\\Desktop\\Projetos e anotações\\testes\\Actions etc\\AsyncTask\\AsyncTask.csproj",
   "expectedPackageFiles": [],
-  "logs": []
+  "logs": [
+    {
+      "code": "Undefined",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "Problem reading the cache file C:\\Users\\luan.santos\\Desktop\\Projetos e anotações\\testes\\Actions etc\\AsyncTask\\obj\\project.nuget.cache : Invalid property identifier character: <. Path 'version', line 3, position 0."
+    }
+  ]
 }

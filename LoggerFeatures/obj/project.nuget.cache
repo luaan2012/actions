@@ -1,10 +1,17 @@
 {
   "version": 2,
-  "dgSpecHash": "iH3D9PbAAcwWkoqw3ER0w6pRAS5T9NJSPRxMmyOMapvR3iWKQAADo0j4aRcMx1Adwi4uaBBJ6848susndVn0Hw==",
+  "dgSpecHash": "E1/SmyCqiL4xL10AF37q1YS9al0XqN+EmwnvZBqRoCRedLzju/vaVPfMJMcDReIAy9iE5RTMpb/7REM6eZebhQ==",
   "success": true,
-  "projectFilePath": "C:\\Users\\oempr\\OneDrive\\Documentos\\Projects\\actions\\LoggerFeatures\\LoggerFeatures.csproj",
+  "projectFilePath": "C:\\Users\\luan.santos\\Desktop\\Projetos e anotações\\testes\\Actions etc\\LoggerFeatures\\LoggerFeatures.csproj",
   "expectedPackageFiles": [
-    "C:\\Users\\oempr\\.nuget\\packages\\microsoft.extensions.logging.abstractions\\2.1.1\\microsoft.extensions.logging.abstractions.2.1.1.nupkg.sha512"
+    "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder\\microsoft.extensions.logging.abstractions\\2.1.1\\microsoft.extensions.logging.abstractions.2.1.1.nupkg.sha512"
   ],
-  "logs": []
+  "logs": [
+    {
+      "code": "Undefined",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "Problem reading the cache file C:\\Users\\luan.santos\\Desktop\\Projetos e anotações\\testes\\Actions etc\\LoggerFeatures\\obj\\project.nuget.cache : Invalid property identifier character: <. Path 'version', line 3, position 0."
+    }
+  ]
 }

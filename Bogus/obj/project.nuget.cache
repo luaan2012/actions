@@ -1,8 +1,15 @@
 {
   "version": 2,
-  "dgSpecHash": "IhHEoRMUamsZQbyuBpnH8WX36A1IIC/dWWn/bGYVBb94fOYcr0LbF6qUJT7LYASxDPIp5blIoC/Mc/Ij65wsLQ==",
+  "dgSpecHash": "H2215QKaHGaJvWm2kQIMttVXd/mXbbaYwQyuC3NuELjw7aNd7onjtX0w63ky+pIw86bBTyRjDoYN9SzRr1vVIw==",
   "success": true,
-  "projectFilePath": "C:\\Users\\oempr\\OneDrive\\Documentos\\Projects\\actions\\Bogus\\Bogus.csproj",
+  "projectFilePath": "C:\\Users\\luan.santos\\Desktop\\Projetos e anotações\\testes\\Actions etc\\Bogus\\Bogus.csproj",
   "expectedPackageFiles": [],
-  "logs": []
+  "logs": [
+    {
+      "code": "Undefined",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "Problem reading the cache file C:\\Users\\luan.santos\\Desktop\\Projetos e anotações\\testes\\Actions etc\\Bogus\\obj\\project.nuget.cache : Invalid property identifier character: <. Path 'version', line 3, position 0."
+    }
+  ]
 }

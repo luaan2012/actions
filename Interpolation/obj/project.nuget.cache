@@ -1,8 +1,15 @@
 {
   "version": 2,
-  "dgSpecHash": "53vPskxM6CfP/S83gFXvco4CElL7DGguQyj0lGzOUFWn2iTOvsgYl/Hn9qozME0tECiE5xoA5+Cl/de66NsCVA==",
+  "dgSpecHash": "qRjkLVmh4q9OyabMwfDt6L6UDsba/9ga9B+XR60pbme+/jofozqHwWOJ1t7yfAgaFGQ9DfPF6w4jtJJTc05hmg==",
   "success": true,
-  "projectFilePath": "C:\\Users\\oempr\\OneDrive\\Documentos\\Projects\\actions\\Interpolation\\Interpolation.csproj",
+  "projectFilePath": "C:\\Users\\luan.santos\\Desktop\\Projetos e anotações\\testes\\Actions etc\\Interpolation\\Interpolation.csproj",
   "expectedPackageFiles": [],
-  "logs": []
+  "logs": [
+    {
+      "code": "Undefined",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "Problem reading the cache file C:\\Users\\luan.santos\\Desktop\\Projetos e anotações\\testes\\Actions etc\\Interpolation\\obj\\project.nuget.cache : Invalid property identifier character: <. Path 'version', line 3, position 0."
+    }
+  ]
 }

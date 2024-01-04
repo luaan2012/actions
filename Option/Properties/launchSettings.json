@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "Option": {
+      "commandName": "Project",
+      "commandLineArgs": "TEst1\r\nteste2\r\nteste3"
+    }
+  }
+}

@@ -1,8 +1,15 @@
 {
   "version": 2,
-  "dgSpecHash": "tFZOd1QNOAn/4scVNUGaibNSAyCp+gztk04rUQRlXx9dM+bdH19lXMLKIf57CEvQXVN7wbcitpuJ+r09EaSk4Q==",
+  "dgSpecHash": "AZvYnUiWjI28CPi2782k5G78XXXZnNt8xFDoGNeCBjVmazF1geIBSymE0A8g29SvrEOKZ3ymOqKzm66tHmbrLA==",
   "success": true,
-  "projectFilePath": "C:\\Users\\oempr\\OneDrive\\Documentos\\Projects\\actions\\IsNickCreatingYouberVideos\\IsNickCreatingYouberVideos.csproj",
+  "projectFilePath": "C:\\Users\\luan.santos\\Desktop\\Projetos e anotações\\testes\\Actions etc\\IsNickCreatingYouberVideos\\IsNickCreatingYouberVideos.csproj",
   "expectedPackageFiles": [],
-  "logs": []
+  "logs": [
+    {
+      "code": "Undefined",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "Problem reading the cache file C:\\Users\\luan.santos\\Desktop\\Projetos e anotações\\testes\\Actions etc\\IsNickCreatingYouberVideos\\obj\\project.nuget.cache : Invalid property identifier character: <. Path 'version', line 3, position 0."
+    }
+  ]
 }

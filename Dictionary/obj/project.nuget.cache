@@ -1,8 +1,15 @@
 {
   "version": 2,
-  "dgSpecHash": "ZLP7c1QFSna4Kh2Sv4VGdxrJObPknqercoKqtc5bIpXuOhIurW8oCQFh5MamYc8JedX0bvGMV3XM9Vb1k/9Tdg==",
+  "dgSpecHash": "eG+N5OHaYwjF3ZjoX5OcXXFy4NkcVVs99DBGyg4ha7usGKo+GW0UDoBuxIYWAYm+4JmnO7QVyuRSVTKovSUZhQ==",
   "success": true,
-  "projectFilePath": "C:\\Users\\oempr\\OneDrive\\Documentos\\Projects\\actions\\Dictionary\\Dictionary.csproj",
+  "projectFilePath": "C:\\Users\\luan.santos\\Desktop\\Projetos e anotações\\testes\\Actions etc\\Dictionary\\Dictionary.csproj",
   "expectedPackageFiles": [],
-  "logs": []
+  "logs": [
+    {
+      "code": "Undefined",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "Problem reading the cache file C:\\Users\\luan.santos\\Desktop\\Projetos e anotações\\testes\\Actions etc\\Dictionary\\obj\\project.nuget.cache : Invalid property identifier character: <. Path 'version', line 3, position 0."
+    }
+  ]
 }
