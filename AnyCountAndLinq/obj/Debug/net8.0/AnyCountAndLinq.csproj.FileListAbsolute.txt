@@ -92,3 +92,4 @@ C:\Users\luan.santos\Desktop\Projetos e anotações\testes\Actions etc\AnyCountA
 C:\Users\luan.santos\Desktop\Projetos e anotações\testes\Actions etc\AnyCountAndLinq\obj\Debug\net8.0\AnyCountAndLinq.pdb
 C:\Users\luan.santos\Desktop\Projetos e anotações\testes\Actions etc\AnyCountAndLinq\obj\Debug\net8.0\AnyCountAndLinq.genruntimeconfig.cache
 C:\Users\luan.santos\Desktop\Projetos e anotações\testes\Actions etc\AnyCountAndLinq\obj\Debug\net8.0\ref\AnyCountAndLinq.dll
+C:\Users\luan.santos\Desktop\Projetos e anotações\testes\Actions etc\AnyCountAndLinq\obj\Debug\net8.0\AnyCountAndLinq.sourcelink.json

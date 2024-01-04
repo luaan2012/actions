@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "cAHIXOGmoVLsl7voYjhAuQwiuY/Th5vH4dQuKW7UAJKEgjzR8XnUG8WzLTKeFhytHsd5mgn+YgWza34GJtOMmQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\luan.santos\\Desktop\\Projetos e anotações\\testes\\Actions etc\\EnumTramp\\EnumTramp.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\luan.santos\\.nuget\\packages\\ardalis.guardclauses\\4.2.0\\ardalis.guardclauses.4.2.0.nupkg.sha512"
+  ],
+  "logs": []
+}
