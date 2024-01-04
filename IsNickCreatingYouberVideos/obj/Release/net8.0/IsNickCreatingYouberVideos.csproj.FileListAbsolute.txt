@@ -1,0 +1,15 @@
+C:\Users\oempr\OneDrive\Documentos\Projects\actions\IsNickCreatingYouberVideos\bin\Release\net8.0\IsNickCreatingYouberVideos.exe
+C:\Users\oempr\OneDrive\Documentos\Projects\actions\IsNickCreatingYouberVideos\bin\Release\net8.0\IsNickCreatingYouberVideos.deps.json
+C:\Users\oempr\OneDrive\Documentos\Projects\actions\IsNickCreatingYouberVideos\bin\Release\net8.0\IsNickCreatingYouberVideos.runtimeconfig.json
+C:\Users\oempr\OneDrive\Documentos\Projects\actions\IsNickCreatingYouberVideos\bin\Release\net8.0\IsNickCreatingYouberVideos.dll
+C:\Users\oempr\OneDrive\Documentos\Projects\actions\IsNickCreatingYouberVideos\bin\Release\net8.0\IsNickCreatingYouberVideos.pdb
+C:\Users\oempr\OneDrive\Documentos\Projects\actions\IsNickCreatingYouberVideos\obj\Release\net8.0\IsNickCreatingYouberVideos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\oempr\OneDrive\Documentos\Projects\actions\IsNickCreatingYouberVideos\obj\Release\net8.0\IsNickCreatingYouberVideos.AssemblyInfoInputs.cache
+C:\Users\oempr\OneDrive\Documentos\Projects\actions\IsNickCreatingYouberVideos\obj\Release\net8.0\IsNickCreatingYouberVideos.AssemblyInfo.cs
+C:\Users\oempr\OneDrive\Documentos\Projects\actions\IsNickCreatingYouberVideos\obj\Release\net8.0\IsNickCreatingYouberVideos.csproj.CoreCompileInputs.cache
+C:\Users\oempr\OneDrive\Documentos\Projects\actions\IsNickCreatingYouberVideos\obj\Release\net8.0\IsNickCreatingYouberVideos.sourcelink.json
+C:\Users\oempr\OneDrive\Documentos\Projects\actions\IsNickCreatingYouberVideos\obj\Release\net8.0\IsNickCreatingYouberVideos.dll
+C:\Users\oempr\OneDrive\Documentos\Projects\actions\IsNickCreatingYouberVideos\obj\Release\net8.0\refint\IsNickCreatingYouberVideos.dll
+C:\Users\oempr\OneDrive\Documentos\Projects\actions\IsNickCreatingYouberVideos\obj\Release\net8.0\IsNickCreatingYouberVideos.pdb
+C:\Users\oempr\OneDrive\Documentos\Projects\actions\IsNickCreatingYouberVideos\obj\Release\net8.0\IsNickCreatingYouberVideos.genruntimeconfig.cache
+C:\Users\oempr\OneDrive\Documentos\Projects\actions\IsNickCreatingYouberVideos\obj\Release\net8.0\ref\IsNickCreatingYouberVideos.dll

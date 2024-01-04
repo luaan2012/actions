@@ -1,23 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\luan.santos\\Desktop\\Projetos e anotações\\testes\\Actions etc\\IsNickCreatingYouberVideos\\IsNickCreatingYouberVideos.csproj": {}
+    "C:\\Users\\oempr\\OneDrive\\Documentos\\Projects\\actions\\IsNickCreatingYouberVideos\\IsNickCreatingYouberVideos.csproj": {}
   },
   "projects": {
-    "C:\\Users\\luan.santos\\Desktop\\Projetos e anotações\\testes\\Actions etc\\IsNickCreatingYouberVideos\\IsNickCreatingYouberVideos.csproj": {
+    "C:\\Users\\oempr\\OneDrive\\Documentos\\Projects\\actions\\IsNickCreatingYouberVideos\\IsNickCreatingYouberVideos.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\luan.santos\\Desktop\\Projetos e anotações\\testes\\Actions etc\\IsNickCreatingYouberVideos\\IsNickCreatingYouberVideos.csproj",
+        "projectUniqueName": "C:\\Users\\oempr\\OneDrive\\Documentos\\Projects\\actions\\IsNickCreatingYouberVideos\\IsNickCreatingYouberVideos.csproj",
         "projectName": "IsNickCreatingYouberVideos",
-        "projectPath": "C:\\Users\\luan.santos\\Desktop\\Projetos e anotações\\testes\\Actions etc\\IsNickCreatingYouberVideos\\IsNickCreatingYouberVideos.csproj",
-        "packagesPath": "C:\\Users\\luan.santos\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\luan.santos\\Desktop\\Projetos e anotações\\testes\\Actions etc\\IsNickCreatingYouberVideos\\obj\\",
+        "projectPath": "C:\\Users\\oempr\\OneDrive\\Documentos\\Projects\\actions\\IsNickCreatingYouberVideos\\IsNickCreatingYouberVideos.csproj",
+        "packagesPath": "C:\\Users\\oempr\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\oempr\\OneDrive\\Documentos\\Projects\\actions\\IsNickCreatingYouberVideos\\obj\\",
         "projectStyle": "PackageReference",
-        "fallbackFolders": [
-          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
-        ],
         "configFilePaths": [
-          "C:\\Users\\luan.santos\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\oempr\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [

@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2012/06/nuspec.xsd">
+  <metadata>
+    <id>Interpolation</id>
+    <version>1.0.0</version>
+    <authors>Interpolation</authors>
+    <description>Package Description</description>
+    <repository type="git" commit="960bc1475faab8f7ed07655b38e86d6f9b2b0b90" />
+    <dependencies>
+      <group targetFramework="net8.0" />
+    </dependencies>
+  </metadata>
+  <files>
+    <file src="C:\Users\oempr\OneDrive\Documentos\Projects\actions\Interpolation\bin\Release\net8.0\Interpolation.runtimeconfig.json" target="lib\net8.0\Interpolation.runtimeconfig.json" />
+    <file src="C:\Users\oempr\OneDrive\Documentos\Projects\actions\Interpolation\bin\Release\net8.0\Interpolation.dll" target="lib\net8.0\Interpolation.dll" />
+  </files>
+</package>

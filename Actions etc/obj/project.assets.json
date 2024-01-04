@@ -8,23 +8,19 @@
     "net8.0": []
   },
   "packageFolders": {
-    "C:\\Users\\luan.santos\\.nuget\\packages\\": {},
-    "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder": {}
+    "C:\\Users\\oempr\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\luan.santos\\Desktop\\Projetos e anotações\\testes\\Actions etc\\Actions etc\\Actions etc.csproj",
+      "projectUniqueName": "C:\\Users\\oempr\\OneDrive\\Documentos\\Projects\\actions\\Actions etc\\Actions etc.csproj",
       "projectName": "Actions etc",
-      "projectPath": "C:\\Users\\luan.santos\\Desktop\\Projetos e anotações\\testes\\Actions etc\\Actions etc\\Actions etc.csproj",
-      "packagesPath": "C:\\Users\\luan.santos\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\luan.santos\\Desktop\\Projetos e anotações\\testes\\Actions etc\\Actions etc\\obj\\",
+      "projectPath": "C:\\Users\\oempr\\OneDrive\\Documentos\\Projects\\actions\\Actions etc\\Actions etc.csproj",
+      "packagesPath": "C:\\Users\\oempr\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\oempr\\OneDrive\\Documentos\\Projects\\actions\\Actions etc\\obj\\",
       "projectStyle": "PackageReference",
-      "fallbackFolders": [
-        "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
-      ],
       "configFilePaths": [
-        "C:\\Users\\luan.santos\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\oempr\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [

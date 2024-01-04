@@ -38,23 +38,19 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\luan.santos\\.nuget\\packages\\": {},
-    "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder": {}
+    "C:\\Users\\oempr\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\luan.santos\\Desktop\\Projetos e anotações\\testes\\Actions etc\\LoggerFeatures\\LoggerFeatures.csproj",
+      "projectUniqueName": "C:\\Users\\oempr\\OneDrive\\Documentos\\Projects\\actions\\LoggerFeatures\\LoggerFeatures.csproj",
       "projectName": "LoggerFeatures",
-      "projectPath": "C:\\Users\\luan.santos\\Desktop\\Projetos e anotações\\testes\\Actions etc\\LoggerFeatures\\LoggerFeatures.csproj",
-      "packagesPath": "C:\\Users\\luan.santos\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\luan.santos\\Desktop\\Projetos e anotações\\testes\\Actions etc\\LoggerFeatures\\obj\\",
+      "projectPath": "C:\\Users\\oempr\\OneDrive\\Documentos\\Projects\\actions\\LoggerFeatures\\LoggerFeatures.csproj",
+      "packagesPath": "C:\\Users\\oempr\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\oempr\\OneDrive\\Documentos\\Projects\\actions\\LoggerFeatures\\obj\\",
       "projectStyle": "PackageReference",
-      "fallbackFolders": [
-        "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
-      ],
       "configFilePaths": [
-        "C:\\Users\\luan.santos\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\oempr\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [

@@ -1,0 +1,20 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2010/07/nuspec.xsd">
+  <metadata>
+    <id>MyOwnToolCli</id>
+    <version>1.0.0</version>
+    <authors>MyOwnToolCli</authors>
+    <description>Package Description</description>
+    <packageTypes>
+      <packageType name="DotnetTool" />
+    </packageTypes>
+    <repository type="git" commit="960bc1475faab8f7ed07655b38e86d6f9b2b0b90" />
+  </metadata>
+  <files>
+    <file src="C:\Users\oempr\OneDrive\Documentos\Projects\actions\MyOwnToolCli\obj\DotnetToolSettings.xml" target="tools\net8.0\any\DotnetToolSettings.xml" />
+    <file src="C:\Users\oempr\OneDrive\Documentos\Projects\actions\MyOwnToolCli\bin\Release\net8.0\publish\MyOwnToolCli.dll" target="tools\net8.0\any\MyOwnToolCli.dll" />
+    <file src="C:\Users\oempr\OneDrive\Documentos\Projects\actions\MyOwnToolCli\bin\Release\net8.0\publish\MyOwnToolCli.deps.json" target="tools\net8.0\any\MyOwnToolCli.deps.json" />
+    <file src="C:\Users\oempr\OneDrive\Documentos\Projects\actions\MyOwnToolCli\bin\Release\net8.0\publish\MyOwnToolCli.runtimeconfig.json" target="tools\net8.0\any\MyOwnToolCli.runtimeconfig.json" />
+    <file src="C:\Users\oempr\OneDrive\Documentos\Projects\actions\MyOwnToolCli\bin\Release\net8.0\publish\MyOwnToolCli.pdb" target="tools\net8.0\any\MyOwnToolCli.pdb" />
+  </files>
+</package>

@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "ucEwGtYuB+udbGrv+I9olP/I0nqETqmX2Qya0iN4ZJafg0UPHvBqbuP8eP4bTfG4ovpQKf78VmmdGTN604OS3Q==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\oempr\\OneDrive\\Documentos\\Projects\\actions\\WebUI\\WebUI.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\oempr\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\6.0.25\\microsoft.windowsdesktop.app.ref.6.0.25.nupkg.sha512",
+    "C:\\Users\\oempr\\.nuget\\packages\\microsoft.netcore.app.ref\\6.0.25\\microsoft.netcore.app.ref.6.0.25.nupkg.sha512",
+    "C:\\Users\\oempr\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\6.0.25\\microsoft.aspnetcore.app.ref.6.0.25.nupkg.sha512"
+  ],
+  "logs": []
+}

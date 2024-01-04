@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "7pLJztBPyhkVOKDNhP0zY33zW3egWNjwctaCssRHbF64RHXx9BwEBIVTlW3kSpBKiLPLNfKyfPiWJGqPrF50Zg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\oempr\\OneDrive\\Documentos\\Projects\\actions\\Infrastructure\\Infrastructure.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\oempr\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\6.0.25\\microsoft.windowsdesktop.app.ref.6.0.25.nupkg.sha512",
+    "C:\\Users\\oempr\\.nuget\\packages\\microsoft.netcore.app.ref\\6.0.25\\microsoft.netcore.app.ref.6.0.25.nupkg.sha512",
+    "C:\\Users\\oempr\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\6.0.25\\microsoft.aspnetcore.app.ref.6.0.25.nupkg.sha512"
+  ],
+  "logs": []
+}

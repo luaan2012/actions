@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "zG4hy84qaat7bCC4XrKXcI85HEsjtBBDDN1oifrisQjVVD2py5HYYlQHJnjPWyZjKt+b5ArmLfSWNRTpTlJpYg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\oempr\\OneDrive\\Documentos\\Projects\\actions\\TheElseKeyword\\TheElseKeyword.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\oempr\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\6.0.25\\microsoft.windowsdesktop.app.ref.6.0.25.nupkg.sha512",
+    "C:\\Users\\oempr\\.nuget\\packages\\microsoft.netcore.app.ref\\6.0.25\\microsoft.netcore.app.ref.6.0.25.nupkg.sha512",
+    "C:\\Users\\oempr\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\6.0.25\\microsoft.aspnetcore.app.ref.6.0.25.nupkg.sha512",
+    "C:\\Users\\oempr\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\6.0.25\\microsoft.netcore.app.host.win-x64.6.0.25.nupkg.sha512"
+  ],
+  "logs": []
+}

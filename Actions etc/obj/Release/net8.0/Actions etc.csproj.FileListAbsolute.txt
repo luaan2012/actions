@@ -1,0 +1,15 @@
+C:\Users\oempr\OneDrive\Documentos\Projects\actions\Actions etc\bin\Release\net8.0\Actions etc.exe
+C:\Users\oempr\OneDrive\Documentos\Projects\actions\Actions etc\bin\Release\net8.0\Actions etc.deps.json
+C:\Users\oempr\OneDrive\Documentos\Projects\actions\Actions etc\bin\Release\net8.0\Actions etc.runtimeconfig.json
+C:\Users\oempr\OneDrive\Documentos\Projects\actions\Actions etc\bin\Release\net8.0\Actions etc.dll
+C:\Users\oempr\OneDrive\Documentos\Projects\actions\Actions etc\bin\Release\net8.0\Actions etc.pdb
+C:\Users\oempr\OneDrive\Documentos\Projects\actions\Actions etc\obj\Release\net8.0\Actions etc.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\oempr\OneDrive\Documentos\Projects\actions\Actions etc\obj\Release\net8.0\Actions etc.AssemblyInfoInputs.cache
+C:\Users\oempr\OneDrive\Documentos\Projects\actions\Actions etc\obj\Release\net8.0\Actions etc.AssemblyInfo.cs
+C:\Users\oempr\OneDrive\Documentos\Projects\actions\Actions etc\obj\Release\net8.0\Actions etc.csproj.CoreCompileInputs.cache
+C:\Users\oempr\OneDrive\Documentos\Projects\actions\Actions etc\obj\Release\net8.0\Actions etc.sourcelink.json
+C:\Users\oempr\OneDrive\Documentos\Projects\actions\Actions etc\obj\Release\net8.0\Actions etc.dll
+C:\Users\oempr\OneDrive\Documentos\Projects\actions\Actions etc\obj\Release\net8.0\refint\Actions etc.dll
+C:\Users\oempr\OneDrive\Documentos\Projects\actions\Actions etc\obj\Release\net8.0\Actions etc.pdb
+C:\Users\oempr\OneDrive\Documentos\Projects\actions\Actions etc\obj\Release\net8.0\Actions etc.genruntimeconfig.cache
+C:\Users\oempr\OneDrive\Documentos\Projects\actions\Actions etc\obj\Release\net8.0\ref\Actions etc.dll

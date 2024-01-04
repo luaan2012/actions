@@ -1,23 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\luan.santos\\Desktop\\Projetos e anotações\\testes\\Actions etc\\AsyncTask\\AsyncTask.csproj": {}
+    "C:\\Users\\oempr\\OneDrive\\Documentos\\Projects\\actions\\AsyncTask\\AsyncTask.csproj": {}
   },
   "projects": {
-    "C:\\Users\\luan.santos\\Desktop\\Projetos e anotações\\testes\\Actions etc\\AsyncTask\\AsyncTask.csproj": {
+    "C:\\Users\\oempr\\OneDrive\\Documentos\\Projects\\actions\\AsyncTask\\AsyncTask.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\luan.santos\\Desktop\\Projetos e anotações\\testes\\Actions etc\\AsyncTask\\AsyncTask.csproj",
+        "projectUniqueName": "C:\\Users\\oempr\\OneDrive\\Documentos\\Projects\\actions\\AsyncTask\\AsyncTask.csproj",
         "projectName": "AsyncTask",
-        "projectPath": "C:\\Users\\luan.santos\\Desktop\\Projetos e anotações\\testes\\Actions etc\\AsyncTask\\AsyncTask.csproj",
-        "packagesPath": "C:\\Users\\luan.santos\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\luan.santos\\Desktop\\Projetos e anotações\\testes\\Actions etc\\AsyncTask\\obj\\",
+        "projectPath": "C:\\Users\\oempr\\OneDrive\\Documentos\\Projects\\actions\\AsyncTask\\AsyncTask.csproj",
+        "packagesPath": "C:\\Users\\oempr\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\oempr\\OneDrive\\Documentos\\Projects\\actions\\AsyncTask\\obj\\",
         "projectStyle": "PackageReference",
-        "fallbackFolders": [
-          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
-        ],
         "configFilePaths": [
-          "C:\\Users\\luan.santos\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\oempr\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [

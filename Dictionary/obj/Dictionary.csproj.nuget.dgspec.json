@@ -1,23 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\luan.santos\\Desktop\\Projetos e anotações\\testes\\Actions etc\\Dictionary\\Dictionary.csproj": {}
+    "C:\\Users\\oempr\\OneDrive\\Documentos\\Projects\\actions\\Dictionary\\Dictionary.csproj": {}
   },
   "projects": {
-    "C:\\Users\\luan.santos\\Desktop\\Projetos e anotações\\testes\\Actions etc\\Dictionary\\Dictionary.csproj": {
+    "C:\\Users\\oempr\\OneDrive\\Documentos\\Projects\\actions\\Dictionary\\Dictionary.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\luan.santos\\Desktop\\Projetos e anotações\\testes\\Actions etc\\Dictionary\\Dictionary.csproj",
+        "projectUniqueName": "C:\\Users\\oempr\\OneDrive\\Documentos\\Projects\\actions\\Dictionary\\Dictionary.csproj",
         "projectName": "Dictionary",
-        "projectPath": "C:\\Users\\luan.santos\\Desktop\\Projetos e anotações\\testes\\Actions etc\\Dictionary\\Dictionary.csproj",
-        "packagesPath": "C:\\Users\\luan.santos\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\luan.santos\\Desktop\\Projetos e anotações\\testes\\Actions etc\\Dictionary\\obj\\",
+        "projectPath": "C:\\Users\\oempr\\OneDrive\\Documentos\\Projects\\actions\\Dictionary\\Dictionary.csproj",
+        "packagesPath": "C:\\Users\\oempr\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\oempr\\OneDrive\\Documentos\\Projects\\actions\\Dictionary\\obj\\",
         "projectStyle": "PackageReference",
-        "fallbackFolders": [
-          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
-        ],
         "configFilePaths": [
-          "C:\\Users\\luan.santos\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\oempr\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [

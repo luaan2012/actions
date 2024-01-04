@@ -1,0 +1,15 @@
+C:\Users\oempr\OneDrive\Documentos\Projects\actions\RecordType\bin\Debug\net8.0\RecordType.exe
+C:\Users\oempr\OneDrive\Documentos\Projects\actions\RecordType\bin\Debug\net8.0\RecordType.deps.json
+C:\Users\oempr\OneDrive\Documentos\Projects\actions\RecordType\bin\Debug\net8.0\RecordType.runtimeconfig.json
+C:\Users\oempr\OneDrive\Documentos\Projects\actions\RecordType\bin\Debug\net8.0\RecordType.dll
+C:\Users\oempr\OneDrive\Documentos\Projects\actions\RecordType\bin\Debug\net8.0\RecordType.pdb
+C:\Users\oempr\OneDrive\Documentos\Projects\actions\RecordType\obj\Debug\net8.0\RecordType.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\oempr\OneDrive\Documentos\Projects\actions\RecordType\obj\Debug\net8.0\RecordType.AssemblyInfoInputs.cache
+C:\Users\oempr\OneDrive\Documentos\Projects\actions\RecordType\obj\Debug\net8.0\RecordType.AssemblyInfo.cs
+C:\Users\oempr\OneDrive\Documentos\Projects\actions\RecordType\obj\Debug\net8.0\RecordType.csproj.CoreCompileInputs.cache
+C:\Users\oempr\OneDrive\Documentos\Projects\actions\RecordType\obj\Debug\net8.0\RecordType.sourcelink.json
+C:\Users\oempr\OneDrive\Documentos\Projects\actions\RecordType\obj\Debug\net8.0\RecordType.dll
+C:\Users\oempr\OneDrive\Documentos\Projects\actions\RecordType\obj\Debug\net8.0\refint\RecordType.dll
+C:\Users\oempr\OneDrive\Documentos\Projects\actions\RecordType\obj\Debug\net8.0\RecordType.pdb
+C:\Users\oempr\OneDrive\Documentos\Projects\actions\RecordType\obj\Debug\net8.0\RecordType.genruntimeconfig.cache
+C:\Users\oempr\OneDrive\Documentos\Projects\actions\RecordType\obj\Debug\net8.0\ref\RecordType.dll
